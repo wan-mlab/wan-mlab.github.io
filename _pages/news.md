@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+02-05-2025
+<h>A collaboration research article preprint “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is online at bioRxiv. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.01.28.635284v1.abstract">here.</h>
+<br>
 01-29-2025
 <h> Shibiao is invited to give a talk for <b>The 1st Annual Basic Biomedical Research Retreat</b> of UNMC to be held on Mar-14-2025 in Omaha, NE.</h>
 <br>
