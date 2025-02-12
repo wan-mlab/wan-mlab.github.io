@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+02-11-2025
+<h>Shibiao gives a talk on "Machine Learning for Large-Scale Single Cell Analysis" for the <b>Immunology Interest Group</b> of UNMC in Omaha, NE.</h>
+<br>
 02-05-2025
 <h>A collaboration research article preprint “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.01.28.635284v1.abstract">here </a>.</h>
 <br>
