@@ -61,10 +61,10 @@ permalink: /conference/
             </tr>
             <tr>
                 <td height = "50">IEEE BIBM 2025</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
+                <td height = "50">Wuhan, China</td>
+                <td height = "50">December 15-18, 2025</td>
+                <td height = "50">Full Papers: Aug. 03, 2025</td>
+                <td height = "50"><a href="https://ieeebibm.org/BIBM2025/" target="_blank">https://ieeebibm.org/BIBM2025/</a></td>
             </tr>
             <tr>
                 <td height = "50">ACM BCB 2025</td>
@@ -75,10 +75,10 @@ permalink: /conference/
             </tr>
             <tr>
                 <td height = "50">ICIBM 2025</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
+                <td height = "50">Columbus, Ohio</td>
+                <td height = "50">August 3-5, 2025</td>
+                <td height = "50">Abstracts: Jun. 13, 2025</td>
+                <td height = "50"><a href="https://icibm2025.iaibm.org/" target="_blank">https://icibm2025.iaibm.org/</a></td>
             </tr>
         </tbody>
     </table>
