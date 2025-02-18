@@ -124,9 +124,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>              
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">04/01/2025</td>
-                <td height = "50">Tabular Prior-data Fitted Network (TabPFN)</td>
+                <td height = "50">​​Contrastive Learning​​​​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
@@ -136,9 +136,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>             
             <tr>
-                <td height = "50">Mengtao Sun</td>
+                <td height = "50">Hanyu Xiao</td>
                 <td height = "50">03/04/2025</td>
-                <td height = "50">​​Contrastive Learning​​​​</td>
+                <td height = "50">Tabular Prior-data Fitted Network (TabPFN)​​​​</td>
                 <td height = "50">6003</td>
             </tr>                            
             <tr>
