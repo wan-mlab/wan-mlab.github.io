@@ -14,7 +14,7 @@ permalink: /journalclub/
 <br>
 We host a biweekly meeting "AI/ML Journal Club" beginning on January 23, 2024, from 9 AM to 10 AM (CT). 
 
-The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 6003.
+The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 7003.
 
 The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon" target="_blank">https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon</a>.
 
@@ -34,118 +34,124 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
+                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">11/25/2025</td>
+                <td height = "50">Federated Learning</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">11/11/2025</td>
-                <td height = "50">Federated Learning</td>
-                <td height = "50">6003</td>
+                <td height = "50">Bayesian Neural Network</td>
+                <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">10/28/2025</td>
                 <td height = "50">Transfer Entropy​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">10/14/2025</td>
                 <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">09/30/2025</td>
                 <td height = "50">Alternating Direction Method of Multipliers (ADMM)​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Yanan Lou</td>
                 <td height = "50">09/16/2025</td>
                 <td height = "50">Linear Neighborhood Propagation</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Nicholas Peterson</td>
                 <td height = "50">09/02/2025</td>
                 <td height = "50">Kernel Learning</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">08/19/2025</td>
                 <td height = "50">Canonical Correlation Analysis--Seurat v2​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">08/05/2025</td>
                 <td height = "50">DBSCAN​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">07/22/2025</td>
                 <td height = "50">Optimal Transport​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">07/08/2025</td>
                 <td height = "50">Wasserstein Distance​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>                                 
             <tr>
                 <td height = "50">Nicholas Peterson</td>
                 <td height = "50">06/10/2025</td>
                 <td height = "50">Cluster-based Similarity Partitioning Algorithm (CSPA)​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">05/27/2025</td>
-                <td height = "50">Bayesian Neural Network​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">Evo2​​</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">05/13/2025</td>
                 <td height = "50">Large Language Models​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">04/29/2025</td>
                 <td height = "50">Generative Pre-trained Transformer (GPT)​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">04/15/2025</td>
                 <td height = "50">Kullback–Leibler Divergence​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">04/01/2025</td>
                 <td height = "50">​​Contrastive Learning​​​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Anulika Pearl Nwashili</td>
                 <td height = "50">03/18/2025</td>
                 <td height = "50">Spectral Clustering​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Hanyu Xiao</td>
                 <td height = "50">03/04/2025</td>
                 <td height = "50">Tabular Prior-data Fitted Network (TabPFN)​​​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>                            
             <tr>
                 <td height = "50">Yanan Lou</td>
                 <td height = "50">02/18/2025</td>
                 <td height = "50">​​Maximum Diversity Clustering​​​​</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>                      
             <tr>
                 <td height = "50">Min-jeong Baek</td>
