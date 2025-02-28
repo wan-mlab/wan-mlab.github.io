@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+02-28-2025
+<h> A research article preprint “Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.02.24.640010v1">here</a>. Congratulations to <b>Mengtao</b>!</h>
+<br>
 02-11-2025
 <h>Shibiao gives a talk on "Machine Learning for Large-Scale Single Cell Analysis" for the <b>Immunology Interest Group</b> of UNMC in Omaha, NE.</h>
 <br>
