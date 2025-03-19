@@ -118,15 +118,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">04/29/2025</td>
-                <td height = "50">Generative Pre-trained Transformer (GPT)​​</td>
+                <td height = "50">Kullback–Leibler Divergence</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">04/15/2025</td>
-                <td height = "50">Kullback–Leibler Divergence​​</td>
+                <td height = "50">Generative Pre-trained Transformer (GPT)​​</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
