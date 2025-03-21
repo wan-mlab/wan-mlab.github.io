@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+03-19-2025
+<h>Shibiao is invited to give a talk for <b>CHRI Artificial Intelligence (AI) Virtual Seminar Series</b> of UNMC to be held on May-05-2025 in Omaha, NE.</h>
+<br>
 02-28-2025
 <h> A research article preprint “Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.02.24.640010v1">here</a>. Congratulations to <b>Mengtao</b>!</h>
 <br>
