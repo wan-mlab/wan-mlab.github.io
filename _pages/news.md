@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+03-25-2025
+<h>Shibiao is appointed as <b>Co-Director of Bioinformatics and Systems Biology (BISB) Graduate Program</b> at UNMC.</h>
+<br>
 03-19-2025
 <h>Shibiao is invited to give a talk for <b>CHRI Artificial Intelligence (AI) Virtual Seminar Series</b> of UNMC to be held on May-05-2025 in Omaha, NE.</h>
 <br>
