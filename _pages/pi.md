@@ -67,6 +67,7 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Member, Children Health Research Institute (CHRI) at UNMC
 - Member, Alcohol Center of Research: Nebraska (ACORN) at UNMC
 - Member, Nebraska Center for Women’s Health Research (NCWHR) at UNMC
+- Member, Center for Heart and Vascular Research (CHVR) at UNMC
 
 
 
