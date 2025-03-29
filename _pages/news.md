@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+03-28-2025
+<h> Shibiao is invited to be a <b>Scientific Program Committee (SPC) Member</b> for <b>The 2025 American Medical Informatics Association (AMIA) Annual Symposium</b>.</h>
+<br>
 03-25-2025
 <h>Shibiao is appointed as <b>Co-Director for Bioinformatics and Systems Biology (BISB) PhD Program</b> at UNMC.</h>
 <br>
