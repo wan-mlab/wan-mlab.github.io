@@ -6,6 +6,8 @@ permalink: /news/
 ---
 
 # News
+04-02-2025
+<h> Shibiao is invited to serve as a reviewer for <b>Nucleic Acids Research</b> (IF 16.7).</h>
 03-28-2025
 <h> Shibiao is invited to be a <b>Scientific Program Committee (SPC) Member</b> for <b>The 2025 American Medical Informatics Association (AMIA) Annual Symposium</b>.</h>
 <br>
