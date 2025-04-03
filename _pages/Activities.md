@@ -5,7 +5,7 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
-## Congratulations to Hanyu on Successfully Defending Her Master's Thesis!. 
+## Congratulations to Hanyu on Successfully Defending Her Master's Thesis!
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel10" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
