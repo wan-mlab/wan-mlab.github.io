@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-03-2025
+<h> Congratulations to <b>Hanyu</b> for successfully defending her <b>final oral exam</b>!</h>
+<br>
 04-02-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Nucleic Acids Research</b> (IF 16.7).</h>
 <br>
