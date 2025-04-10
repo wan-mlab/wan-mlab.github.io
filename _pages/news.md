@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-09-2025
+<h> Shibiao is invited to serve as a reviewer for <b>Genome Biology</b> (IF 10.1).</h>
+<br>
 04-03-2025
 <h> Congratulations to <b>Hanyu</b> for successfully defending her <b>final oral exam</b>!</h>
 <br>
