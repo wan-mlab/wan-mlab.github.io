@@ -10,7 +10,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as a reviewer for <b>Genome Biology</b> (IF 10.1).</h>
 <br>
 04-03-2025
-<h> Congratulations to <b>Hanyu</b> for successfully defending her <b>final oral exam</b>!</h>
+<h> Congratulations to <b>Hanyu</b> for successfully defending her <b>Final Oral Exam</b>!</h>
 <br>
 04-02-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Nucleic Acids Research</b> (IF 16.7).</h>
