@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-10-2025
+<h> Shibiao is invited to vist to <b>University of Wyoming (UW)</b> and give a seminar talk for <b>Wyoming Sensory Biology Center (WSBC)</b> at <b>UW</b>.</h>
+<br>
 04-09-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Genome Biology</b> (IF 10.1).</h>
 <br>
