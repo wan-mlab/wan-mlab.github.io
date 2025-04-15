@@ -6,6 +6,10 @@ permalink: /news/
 ---
 
 # News
+04-15-2025
+<h> <b>Xingmin Hu</b> joins our lab as a research intern. Welcome aboard!</h>
+</b> at <b>UW</b>.</h>
+<br>
 04-10-2025
 <h> Shibiao is invited to vist <b>University of Wyoming (UW)</b> and give a seminar talk for <b>Wyoming Sensory Biology Center (WSBC)</b> at <b>UW</b>.</h>
 <br>
