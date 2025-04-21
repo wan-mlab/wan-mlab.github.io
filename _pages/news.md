@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-21-2025
+<h> Our research intern <b>Eswar</b> is selected as the <b>winner</b> of the <b>First Place Award</b> for CHRI Research Forum Awards for Trainees and Associates.</h>
+<br>
 04-15-2025
 <h> <b>Xingmin Hu</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
