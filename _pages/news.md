@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-23-2025
+<h> Five abstracts to be presented in AACR 2025 have been published in <B>Cancer Research</B>! Congratulations to all lab members!</h>
+<br>
 04-21-2025
 <h> Our research intern <b>Eswar</b> is selected as the <b>winner</b> of the <b>First Place Award</b> for CHRI Research Forum Awards for Trainees and Associates.</h>
 <br>
