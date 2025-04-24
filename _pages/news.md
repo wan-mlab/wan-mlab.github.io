@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 04-23-2025
+<h> Four additional collaborative AACR abstracts published in <b>Cancer Research</b>! Congratulations!</h>
+<br>
+04-23-2025
 <h> Five abstracts to be presented in AACR 2025 have been published in <B>Cancer Research</B>! Congratulations to all lab members!</h>
 <br>
 04-21-2025
