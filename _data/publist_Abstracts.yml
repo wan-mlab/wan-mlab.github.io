@@ -1,5 +1,5 @@
 
-- title: "1. iS3RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects, Cancer Research (accepted)."
+- title: "1. iS3RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects, Cancer Research"
   image: 
   description: 
   authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
@@ -9,7 +9,7 @@
   highlight: 0
   news2:
 
-- title: "1. AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes, Cancer Research (accepted)."
+- title: "1. AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes, Cancer Research"
   image: 
   description: 
   authors: <u>L. Li</u>, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>.
@@ -19,7 +19,7 @@
   highlight: 0
   news2:
   
-- title: "1. Identifying pancreatic cancer subtypes by a novel meta-learning model (accepted)"
+- title: "1. Identifying pancreatic cancer subtypes by a novel meta-learning model"
   image: 
   description: 
   authors: <u>N. Peterson</u>, <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
@@ -29,7 +29,7 @@
   highlight: 0
   news2:
 
-- title: "1. Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data, Cancer Research (accepted)."
+- title: "1. Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data, Cancer Research"
   image: 
   description: 
   authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b>.
@@ -39,7 +39,7 @@
   highlight: 0
   news2:
 
-- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research (accepted)."
+- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research"
   image: 
   description: 
   authors: <u>M. Baek</u>, <u>L. Li</u>, J. Wang, V. Band and <b><u>S. Wan*</u></b>.
