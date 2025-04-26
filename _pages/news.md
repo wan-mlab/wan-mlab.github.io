@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-25-2025
+<h> A review preprint “A Comprehensive Review on RNA Subcellular Localization Prediction” is online at bioRxiv. The link is <a  href="https://arxiv.org/abs/2504.17162">here</a>. Congratulations to <b>Cece</b>, <b>Xuehuan</b> and <b>Nick</b>!</h>
+<br>
 04-23-2025
 <h> Four additional collaborative AACR abstracts published in <b>Cancer Research</b>! Congratulations!</h>
 <br>
