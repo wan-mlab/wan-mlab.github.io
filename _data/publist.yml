@@ -1,3 +1,13 @@
+- title: "1. A Comprehensive Review on RNA Subcellular Localization Prediction"
+  image: 
+  description: 
+  authors: <u>Cece Zhang</u>, <u>Xuehuan Zhu</u>, <u>Nick Peterson</u>, Jieqiong Wang, <b><u>Shibiao Wan*</u></b>
+  link:
+    url: https://arxiv.org/abs/2504.17162
+    display: 	bioRxiv arXiv:2504.17162 (2025)
+  highlight: 0
+  news2:
+  
 - title: "1. Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat"
   image: 
   description: 
