@@ -28,21 +28,31 @@ permalink: /labm/
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">05/23/2025</td>
+                <td height = "50">06/06/2025</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">05/16/2025</td>
+                <td height = "50">05/30/2025</td>
                 <td height = "50">7003</td>
-            </tr>              
+            </tr>
             <tr>
                 <td height = "50">Nick Peterson</td>
+                <td height = "50">05/23/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">05/16/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">05/09/2025</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">05/02/2025</td>
                 <td height = "50">7003</td>
             </tr>        
