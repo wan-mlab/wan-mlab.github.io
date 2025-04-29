@@ -119,7 +119,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>
             <tr>
                 <td height = "50">Nicholas Peterson</td>
-                <td height = "50">04/29/2025</td>
+                <td height = "50">05/06/2025</td>
                 <td height = "50">Cluster-based Similarity Partitioning Algorithm (CSPA)​​</td>
                 <td height = "50">7003</td>
             </tr>             
