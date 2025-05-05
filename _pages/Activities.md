@@ -6,7 +6,7 @@ permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
 ## AACR - 2025
-<strong>Mengtao</strong> presents two posters: "iS<sup>3</sup>RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects" and "Identifying pancreatic cancer subtypes by a novel meta-learning model". <strong>Xinchao</strong> presents three posters: "Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data", "A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer" and "AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes". 
+Our lab had five posters accepted in AACR 2025 and published in Cancer Research, including "iS<sup>3</sup>RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects", "Identifying pancreatic cancer subtypes by a novel meta-learning model", "Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data", "A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer" and "AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes". <strong>Mengtao</strong> and <strong>Xinchao</strong> represented our lab presenting in Chicago, IL.
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
