@@ -31,25 +31,25 @@ Our lab had five posters accepted in AACR 2025 and published in Cancer Research,
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
          <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202511.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202511.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202512.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202512.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202513.jpeg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202513.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202514.jpeg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202514.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20251.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20251.jpeg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20252.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20252.jpeg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20253.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20253.jpeg" alt="Slide 7" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202510.jpeg" alt="Slide 8" />
