@@ -23,9 +23,6 @@ Our lab had five posters accepted in AACR 2025 and published in Cancer Research,
         <li data-target="#carousel3" data-slide-to="8"></li>
         <li data-target="#carousel3" data-slide-to="9"></li>
         <li data-target="#carousel3" data-slide-to="10"></li>
-        <li data-target="#carousel3" data-slide-to="11"></li>
-        <li data-target="#carousel3" data-slide-to="12"></li>
-        <li data-target="#carousel3" data-slide-to="13"></li>
     </ol>
 
     <!-- Items -->
@@ -55,19 +52,10 @@ Our lab had five posters accepted in AACR 2025 and published in Cancer Research,
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR202510.jpeg" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20259.jpeg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20258.jpeg" alt="Slide 9" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20258.jpeg" alt="Slide 10" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20257.jpeg" alt="Slide 11" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20256.jpeg" alt="Slide 12" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20255.jpeg" alt="Slide 13" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR20255.jpeg" alt="Slide 10" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
