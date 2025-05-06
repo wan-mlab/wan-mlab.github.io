@@ -6,6 +6,8 @@ permalink: /news/
 ---
 
 # News
+05-05-2025
+<h>Shibiao is invited to give a seminar talk for <b>CHRI Artificial Intelligence (AI) Virtual Seminar Series</b> of UNMC today.</h>
 04-24-2025
 <h> A review preprint “A Comprehensive Review on RNA Subcellular Localization Prediction” is online at <b>arXiv</b>. The link is <a  href="https://arxiv.org/abs/2504.17162">here</a>. Congratulations to <b>Cece</b>, <b>Xuehuan</b> and <b>Nick</b>!</h>
 <br>
