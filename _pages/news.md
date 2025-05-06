@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+05-06-2025
+<h>A collaboration journal article preprint on liver cancer with Dr. Jun Yang from St. Jude is available accepted and published in <b>eLife</b>. The link is <a  href="https://elifesciences.org/articles/101299">here</a>.</h>
+<br>
 05-05-2025
 <h>Shibiao gives a seminar talk on "Leveraging AI for Characterizing Pediatric Cancer" for <b>CHRI Artificial Intelligence (AI) Virtual Seminar Series</b> of UNMC.</h>
 <br>
