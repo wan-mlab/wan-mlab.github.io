@@ -353,11 +353,5 @@ permalink: /team/
 </div>
 {% endif %}
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 
