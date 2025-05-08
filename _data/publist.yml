@@ -1,7 +1,7 @@
 - title: "1. RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC"
   image: 
   description: 
-  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan</u></b>
+  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1
     display: 	bioRxiv 2025.05.01.651699 (2025)
