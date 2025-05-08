@@ -1,3 +1,13 @@
+- title: "1. RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC"
+  image: 
+  description: 
+  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan</u></b>
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1
+    display: 	bioRxiv 2025.05.01.651699 (2025)
+  highlight: 0
+  news2:
+  
 - title: "1. The context-dependent epigenetic and organogenesis programs determine 3D vs. 2D cellular fitness of MYC-driven murine liver cancer cells"
   image: 
   description: 
@@ -21,7 +31,7 @@
 - title: "1. Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat"
   image: 
   description: 
-  authors: <u>M. Sun</u>, J. Wang and <u>S. Wan*</u>
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: https://www.biorxiv.org/content/10.1101/2025.02.24.640010v1
     display: bioRxiv 2025.02.24.640010 (2025)
