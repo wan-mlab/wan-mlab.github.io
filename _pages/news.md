@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 05-07-2025
-<h> A research article preprint “RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC” is online at bioRxiv. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1">here</a>. Congratulations to <b>Xinchao</b>!</h>
+<h> A research article preprint “RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1">here</a>. Congratulations to <b>Xinchao</b>!</h>
 05-07-2025
 <h> <b>Dr. Xiaoting Fan</b> joins our lab as a visiting research scholar. Welcome aboard!</h>
 <br>
