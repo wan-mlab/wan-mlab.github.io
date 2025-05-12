@@ -30,7 +30,7 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere4.jpeg" alt="Slide 4" />
