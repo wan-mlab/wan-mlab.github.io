@@ -5,6 +5,57 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
+## Congratulations to <b>Hanyu</b>b on Successfully Completing Her Graduation Ceremony
+</div>
+<div class="col-sm-9">
+<div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel3" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel3" data-slide-to="1"></li>
+        <li data-target="#carousel3" data-slide-to="2"></li>
+        <li data-target="#carousel3" data-slide-to="3"></li>
+        <li data-target="#carousel3" data-slide-to="4"></li>
+        <li data-target="#carousel3" data-slide-to="5"></li>
+        <li data-target="#carousel3" data-slide-to="6"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere3.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere2.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere.jpeg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere4.jpeg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere5.jpeg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere6.jpeg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere7.jpeg" alt="Slide 7" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+<br>  
+<div id="textid" class="col-sm-12">
 ## AACR - 2025
 Our lab had five posters accepted in AACR 2025 and published in Cancer Research, including "iS<sup>3</sup>RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects", "Identifying pancreatic cancer subtypes by a novel meta-learning model", "Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data", "A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer" and "AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes". <strong>Mengtao</strong> and <strong>Xinchao</strong> represented our lab presenting in Chicago, IL.
 </div>
