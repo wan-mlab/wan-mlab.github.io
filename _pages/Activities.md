@@ -18,6 +18,7 @@ permalink: /activity/
         <li data-target="#carousel3" data-slide-to="4"></li>
         <li data-target="#carousel3" data-slide-to="5"></li>
         <li data-target="#carousel3" data-slide-to="6"></li>
+        <li data-target="#carousel3" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -42,6 +43,9 @@ permalink: /activity/
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere7.jpeg" alt="Slide 7" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere9.jpeg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
