@@ -5,7 +5,7 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
-## Congratulations to <b>Hanyu</b>b on Successfully Completing Her Graduation Ceremony
+## Congratulations to <b>Hanyu</b> on Successfully Completing Her Graduation Ceremony
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
