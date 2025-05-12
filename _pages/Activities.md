@@ -24,7 +24,7 @@ permalink: /activity/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
          <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere3.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere3.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/hanyucere2.jpg" alt="Slide 2" />
