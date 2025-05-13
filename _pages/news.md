@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 05-12-2025
-<h> 'Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management (MCST14)</b>.'</h>
+'<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management (MCST14)</b>.</h>'
 <br>
 05-09-2025
 <h> Congratulations to <b>Hanyu</b> for officially graduating from UNMC.</h>
