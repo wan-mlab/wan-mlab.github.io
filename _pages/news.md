@@ -79,7 +79,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Search Committee Member</b> for <b>Data Science Faculty</b> of <b>College of Allied Health Professions</b> at UNMC.</h>
 <br>
 01-13-2025
-<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel (SEP) in Health Services and Systems Review Branch (HSS)</b>.</h>
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel (SEP) in the Health Services and Systems Review Branch (HSS) on Clinical Data Management, Clinical Informatics, and Digital Health</b>.</h>
 <br>
 01-06-2025
 <h>Five abstracts from our lab are accepted in AACR Annual Meeting 2025. Congrats to <b>Mengtao, Lusheng, Nick, Xinchao and Min-jeong</b>!</h>
