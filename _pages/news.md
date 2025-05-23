@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 05-22-2025
-'<h> A research article preprint “AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1">here</a>. Congratulations to <b>Lusheng</b>!</h>'
+'<h> A research article preprint “AttentionAML: An attention-based deep learning framework for accurate molecular categorization of acute myeloid leukemia” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1">here</a>. Congratulations to <b>Lusheng</b>!</h>'
 <br>
 05-13-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) in the Health Services and Systems Review Branch on Clinical Informatics, Data Management, Digital Health, and AI/ML</b>.</h>
