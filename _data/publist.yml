@@ -1,3 +1,14 @@
+- title: "1. AttentionAML: An attention-based deep learning framework for accurate molecular categorization of acute myeloid leukemia"
+  image: 
+  description: 
+  authors: <u>L. Li</u>,J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1
+    display: 	bioRxiv 2025.05.20.655179 (2025)
+  highlight: 0
+  news2:
+
+  
 - title: "1. RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC"
   image: 
   description: 
