@@ -6,7 +6,7 @@ permalink: /news/
 ---
 
 # News
-05-13-2025
+05-22-2025
 '<h> A research article preprint “AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1">here</a>. Congratulations to <b>Lusheng</b>!</h>'
 <br>
 05-13-2025
