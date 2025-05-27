@@ -239,4 +239,4 @@ permalink: /team/
 
 ## Alumni
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/Alumni">... see all Alumni</a></h4>
+<h4><a href="{{ site.url }}{{ site.baseurl }}/Alumni">View All Alumni</a></h4>
