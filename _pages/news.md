@@ -8,7 +8,7 @@ permalink: /news/
 # News
 06-06-2025
 <h>Shibiao is invited to serve as a <b>Program Committee (PC) member</b> for <b>The 37th IEEE International Conference on Tools with Artificial Intelligence (IEEE ICTAI 2025)</b> to be held from Nov. 3rd-5th in Athens, Greece. The link is <a  href="https://ictai.computer.org/2025/">here</a>. </h>
- 
+<br>
 05-29-2025
 <h> Shibiao is awarded the <b>2025 Springer Nature Editor of Distinction Award</b> for <i>BMC Bioinformatics</i> by Springer Nature.</h>
 <br>
