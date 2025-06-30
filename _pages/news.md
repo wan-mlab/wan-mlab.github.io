@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+06-30-2025
+<h>Congratulations to <b>Bulidierxin</b> for being awarded the Ray H. Frohn Incoming Graduate Student Scholarship.</h>
+<br>
 06-28-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Science Advances</b> (IF 11.7).</h>
 <br>
