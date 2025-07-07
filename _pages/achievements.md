@@ -6,29 +6,44 @@ permalink: /achievements/
 ---
 
 # Achievements of Lab Trainees
+<br>
+#### This page highlights the outstanding accomplishments of trainees at the Wan Lab, including publications, presentations, awards and scholarships!
 
-<p>This page highlights awards, scholarships, poster presentations, and recognitions received by current and former lab trainees, as reported in lab news. Achievements are grouped by individual.</p>
+---
 
-{% assign trainee_names = "Lusheng, Hanyu, Mengtao, Xinchao, Nick, Nicholas, Cece, Xuehuan, Grace, Jiaqi, Ouyang, Anulika, Sili, Xingmin, Junxi, Cong, Yijin, Wenhao, Simar, Eswar, Weiqi, Saiyi, Neil, Navya, Min-jeong, Charlie, Kah Meng, Bryant, Ramos, Raheem, Richard, Yanan, Andy" | split: ", " %}
+## Graduate Students
 
-{% for name in trainee_names %}
+### **Mengtao Sun**
+- **Highlights**:
+  - Presented at Wan Lab Meeting (Aug 22, 2025)
+  - Contributed key methods to antimicrobial prediction model
+- **Publications**:
+  {% assign people = "M. Sun" %}
+
+{% for person in people %}
   {% assign found = false %}
-  {% assign name_lc = name | downcase %}
-  {% capture achievements %}
-    {% for article in site.data.news %}
-      {% assign headline_lc = article.headline | downcase %}
-      {% unless headline_lc contains 'shibiao' %}
-        {% if headline_lc contains name_lc %}
-          {% assign found = true %}
-          <li>{{ article.date }}: {{ article.headline | markdownify }}</li>
-        {% endif %}
-      {% endunless %}
+  {% assign person_lc = person | downcase %}
+  {% capture pubs %}
+    {% for publi in site.data.publist %}
+      {% assign authors_lc = publi.authors | downcase %}
+      {% if authors_lc contains person_lc %}
+        {% assign found = true %}
+        <li>
+          <strong>{{ publi.title }}</strong><br />
+          <em>{{ publi.authors }}</em><br />
+          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
   {% endcapture %}
   {% if found %}
-    <h3>{{ name }}</h3>
+    <h3>{{ person }}</h3>
     <ul>
-      {{ achievements | strip }}
+      {{ pubs | strip }}
     </ul>
   {% endif %}
-{% endfor %} 
+{% endfor %}
+
+---
+
+### **Xinchao Wu**
