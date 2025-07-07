@@ -17,8 +17,8 @@ permalink: /achievements/
     <table border="4" cellspacing="30" cellpadding="20" style=" width: 90%; border-collapse: collapse;">
         <tbody align = "left">
             <tr style="border-bottom: 2px solid black;">
-                <td height = "50" style="text-align: center;"><b>Date</b></td>
-                <td height = "50" style="text-align: center;"><b>Achievements</b></td>
+                <td height = "50" style="text-align: center;" style="width: 15%;"><b>Date</b></td>
+                <td height = "50" style="text-align: center;" style="width: 85%;"><b>Achievements</b></td>
             </tr>
             <tr>
               <td height = "50" style="white-space: nowrap;">06-30-2025</td>
