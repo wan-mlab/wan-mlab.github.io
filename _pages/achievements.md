@@ -14,7 +14,7 @@ permalink: /achievements/
 
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
-    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 100%; border-collapse: collapse;">
         <tbody align = "center">
             <tr style="border-bottom: 2px solid black;">
                 <td height="50" colspan="4"><b>2025 Schedule</b></td>
@@ -53,3 +53,6 @@ permalink: /achievements/
     </table>
 </body>
 </html>
+
+<br>
+<br>
