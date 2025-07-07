@@ -26,6 +26,7 @@ permalink: /achievements/
     {% for publi in site.data.publist %}
       {% assign authors_lc = publi.authors | downcase %}
       {% if authors_lc contains person_lc %}
+        {% assign found = true %}
         <li>
           <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
           <em>{{ publi.authors }}</em><br />
