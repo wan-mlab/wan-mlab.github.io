@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+07-07-2025
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Czech Science Foundation</b> in the Czech Republic. </h>
+<br>
 06-30-2025
 <h>Congratulations to <b>Bulidierxin</b> for being awarded the Ray H. Frohn Incoming Graduate Student Scholarship.</h>
 <br>
