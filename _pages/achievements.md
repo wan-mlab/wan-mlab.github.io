@@ -13,14 +13,13 @@ permalink: /achievements/
 
 ## Graduate Students
 
-### **Mengtao Sun**
+### Mengtao Sun
 - **Highlights**:
   - Presented at Wan Lab Meeting (Aug 22, 2025)
   - Contributed key methods to antimicrobial prediction model
 - **Publications**:
-  {% assign people = "M. Sun" %}
 
-{% for person in people %}
+{% for person in "M. Sun" %}
   {% assign found = false %}
   {% assign person_lc = person | downcase %}
   {% capture pubs %}
@@ -29,7 +28,7 @@ permalink: /achievements/
       {% if authors_lc contains person_lc %}
         {% assign found = true %}
         <li>
-          <strong>{{ publi.title }}</strong><br />
+          {% assign clean_title = publi.title | remove_first: '1. ' %}
           <em>{{ publi.authors }}</em><br />
           <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
         </li>
