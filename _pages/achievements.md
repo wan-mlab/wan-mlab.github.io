@@ -13,11 +13,12 @@ permalink: /achievements/
 
 {% for name in trainee_names %}
   {% assign found = false %}
+  {% assign name_lc = name | downcase %}
   {% capture achievements %}
     {% for article in site.data.news %}
       {% assign headline_lc = article.headline | downcase %}
       {% unless headline_lc contains 'shibiao' %}
-        {% if headline_lc contains name | downcase %}
+        {% if headline_lc contains name_lc %}
           {% assign found = true %}
           <li>{{ article.date }}: {{ article.headline | markdownify }}</li>
         {% endif %}
