@@ -240,3 +240,7 @@ permalink: /team/
 ## Alumni
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/Alumni">View All Alumni</a></h4>
+
+## Achievements
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/achievements">View All Achievements</a></h4>
