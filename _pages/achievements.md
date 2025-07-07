@@ -22,29 +22,29 @@ permalink: /achievements/
                 <td height = "50"><b>Date</b></td>
             </tr>
             <tr>
-              <td>Bulidierxin Tuerhanbayi</td>
-              <td>Ray H. Frohn Incoming Graduate Student Scholarship</td>
-              <td>06-30-2025</td>
+              <td height = "50">Bulidierxin Tuerhanbayi</td>
+              <td height = "50">Ray H. Frohn Incoming Graduate Student Scholarship</td>
+              <td height = "50">06-30-2025</td>
             </tr> 
             <tr>
-              <td>Mengtao Sun</td>
-              <td>UNMC Graduate Fellowship 2025</td>
-              <td>06-26-2025</td>
+              <td height = "50">Mengtao Sun</td>
+              <td height = "50">UNMC Graduate Fellowship 2025</td>
+              <td height = "50">06-26-2025</td>
             </tr>
             <tr>
-              <td>Hanyu Xiao</td>
-              <td>Graduation from UNMC</td>
-              <td>05-09-2025</td>
+              <td height = "50">Hanyu Xiao</td>
+              <td height = "50">Graduation from UNMC</td>
+              <td height = "50">05-09-2025</td>
             </tr> 
             <tr>
-              <td>Eswar Ramamurthy</td>
-              <td>First Place Award for CHRI Research Forum Awards for Trainees and Associates</td>
-              <td>04-21-2025</td>
+              <td height = "50">Eswar Ramamurthy</td>
+              <td height = "50">First Place Award for CHRI Research Forum Awards for Trainees and Associates</td>
+              <td height = "50">04-21-2025</td>
             </tr>            
             <tr>
-              <td>Hanyu Xiao</td>
-              <td>Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</td>
-              <td>03-28-2024</td>
+              <td height = "50">Hanyu Xiao</td>
+              <td height = "50">Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</td>
+              <td height = "50">03-28-2024</td>
             </tr>
       </tbody>
     </table>
