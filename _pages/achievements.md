@@ -7,375 +7,49 @@ permalink: /achievements/
 
 # Achievements of Lab Trainees
 <br>
-#### This page highlights the outstanding accomplishments of trainees at the Wan Lab, including publications, awards and scholarships!
+#### This page highlights the outstanding accomplishments of trainees at the Wan Lab, including awards and scholarships!
 
 ---
+<html lang="en">
 
-## Graduate Students
-
-### Mengtao Sun
-- #### Highlights:
-  - UNMC graduate fellowship (2025)
-- #### Publications:
-  - **Journal Articles**
-{% for person in "M. Sun" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "M. Sun" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-### Lusheng Li
-- #### Publications:
-  - **Journal Articles**
-{% for person in "L. Li" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "L. Li" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-### Xinchao Wu
-- #### Publications:
-  - **Journal Articles**
-{% for person in "X. Wu" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "X. Wu" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-### Nicholas Peterson
-- #### Publications:
-  - **Journal Articles**
-{% for person in "N. Peterson" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "N. Peterson" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-### Min-jeong Baek
-- #### Publications:
-  - **Journal Articles**
-{% for person in "M. Baek" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "M. Baek" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-## Intern Students
-
-### Cece Zhang
-- #### Publications:
-  - **Journal Articles**
-{% for person in "C. Zhang" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "C. Zhang" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
----
-
-### Xuehuan Zhu
-- #### Publications:
-  - **Journal Articles**
-{% for person in "X. Zhu" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
-  - **Conference Abstracts**
-{% for person in "X. Zhu" %}
-  {% assign found = false %}
-  {% assign person_lc = person | downcase %}
-  {% capture pubs %}
-    {% for publi in site.data.publist_Abstracts %}
-      {% assign authors_lc = publi.authors | downcase %}
-      {% if authors_lc contains person_lc %}
-        {% assign found = true %}
-        <li>
-          <strong>{{ publi.title | remove_first: '1. '}}</strong><br />
-          <em>{{ publi.authors }}</em><br />
-          <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endcapture %}
-  {% if found %}
-    <ul>
-      {{ pubs | strip }}
-    </ul>
-  {% endif %}
-{% endfor %}
-
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+    
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
+        <tbody align = "center">
+            <tr style="border-bottom: 2px solid black;">
+                <td height="50" colspan="4"><b>2025 Schedule</b></td>
+            </tr>
+            <tr style="border-bottom: 2px solid black;">
+                <td height = "50"><b>Name</b></td>
+                <td height = "50"><b>Achievement</b></td>
+                <td height = "50"><b>Date</b></td>
+            </tr>
+            <tr>
+              <td>Bulidierxin Tuerhanbayi</td>
+              <td>Ray H. Frohn Incoming Graduate Student Scholarship</td>
+              <td>06-30-2025</td>
+            </tr> 
+            <tr>
+              <td>Mengtao Sun</td>
+              <td>UNMC Graduate Fellowship 2025</td>
+              <td>06-26-2025</td>
+            </tr>
+            <tr>
+              <td>Hanyu Xiao</td>
+              <td>Graduation from UNMC</td>
+              <td>05-09-2025</td>
+            </tr> 
+            <tr>
+              <td>Eswar Ramamurthy</td>
+              <td>First Place Award for CHRI Research Forum Awards for Trainees and Associates</td>
+              <td>04-21-2025</td>
+            </tr>            
+            <tr>
+              <td>Hanyu Xiao</td>
+              <td>Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</td>
+              <td>03-28-2024</td>
+            </tr>
+      </tbody>
+    </table>
+</body>
+</html>
