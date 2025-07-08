@@ -59,13 +59,13 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>             
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">09/02/2025</td>
+                <td height = "50">09/16/2025</td>
                 <td height = "50">Alternating Direction Method of Multipliers (ADMM)​​</td>
                 <td height = "50">7003</td>
             </tr>                                 
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">08/19/2025</td>
+                <td height = "50">09/02/2025</td>
                 <td height = "50">Canonical Correlation Analysis--Seurat v2​​</td>
                 <td height = "50">7003</td>
             </tr>              
