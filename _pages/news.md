@@ -97,7 +97,7 @@ permalink: /news/
 <h>Shibiao gives a talk on "Machine Learning for Large-Scale Single Cell Analysis" for the <b>Immunology Interest Group</b> of UNMC in Omaha, NE.</h>
 <br>
 02-06-2025
-<h>Shibiao is invited to give a talk for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2024)</b> to be held from Aug. 3-5, 2025 in Columbus, OH. The link is <a  href="https://icibm2025.iaibm.org/">here</a>. </h>
+<h>Shibiao is invited to give a talk for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> to be held from Aug. 3-5, 2025 in Columbus, OH. The link is <a  href="https://icibm2025.iaibm.org/">here</a>. </h>
 <br>
 02-05-2025
 <h>A collaboration research article preprint “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.01.28.635284v1.abstract">here </a>.</h>
