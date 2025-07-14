@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+07-14-2025
+<h>Shibiao is invited to give a talk for <b>The 2025 Pediatric Cancer Research Group (PCRG) Symposium</b> to be held on August-20-2025 in Omaha, NE.</h>
+<br>
 07-07-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Czech Science Foundation</b> in the Czech Republic. </h>
 <br>
