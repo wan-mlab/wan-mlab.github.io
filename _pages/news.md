@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 07-22-2025
-<h>Shibiao is invited to serve as the <b>Co-Chair of Publicity Committee</b> for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> to be held from Aug. 3-5, 2025 in Columbus, OH. The link is <a  href="https://icibm2025.iaibm.org/Organization%20Committee.htm">here</a>.</h>
+<h>Shibiao is invited to serve as the <b>Co-Chair for Publicity Committee</b> for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> to be held from Aug. 3-5, 2025 in Columbus, OH. The link is <a  href="https://icibm2025.iaibm.org/Organization%20Committee.htm">here</a>.</h>
 <br>
 07-14-2025
 <h><b>Nishitha Reddy Thummal</b> joins our lab as a research intern. Welcome aboard!</h>
