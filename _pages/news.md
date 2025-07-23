@@ -181,7 +181,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Poland National Science Center</b> in the Poland. </h>
 <br>
 09-05-2024
-<h> Shibiao is awarded an <b>NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fund data sets for lung cancer research.</h>
+<h> Shibiao is awarded an <b>NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fund data sets for lung cancer research. Congratulations!</h>
 <br>
 09-04-2024
 <h> Four abstracts are accepted in <b>ICIBM 2024</b>. Congrats to <b>Mengtao, Hanyu and Lusheng</b>!!!</h>
@@ -226,10 +226,10 @@ permalink: /news/
 <h> Shibiao is invited to serve as an Editorial Board Member for a Springer Nature Journal <b>Discover Oncology</b> (IF 2.8).</h>
 <br>
 06-28-2024
-<h> Shibiao is awarded the <b> NIH/NIGMS Team Science Development Supplement Grant</b>, together with other project leaders Dr. Adrian Black, Dr. Kyle Hewitt and Dr. Kate Hyde from UNMC. </h>
+<h> Shibiao is awarded the <b> NIH/NIGMS Team Science Development Supplement Grant</b>, together with other project leaders Dr. Adrian Black, Dr. Kyle Hewitt and Dr. Kate Hyde from UNMC. Congratulations!</h>
 <br>
 06-26-2024
-<h> Shibiao is awarded the <b>Child Health Research Institute (CHRI) AI Research Grant</b>! </h>
+<h> Shibiao is awarded the <b>Child Health Research Institute (CHRI) AI Research Grant</b>! Congratulations!</h>
 <br>
 06-19-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Medical Research Council (MRC) of UK Research and Innovation (UKRI)</b> in the UK. </h>
@@ -268,7 +268,7 @@ permalink: /news/
 <h> <b>Yanan</b> will join our lab as a master student in Jan-2025. Welcome aboard!</h>
 <br>
 05-07-2024
-<h> Shibiao is awarded the <b>Nebraska Research Initiative (NRI) Collaborative Grant</b>! </h>
+<h> Shibiao is awarded the <b>Nebraska Research Initiative (NRI) Collaborative Grant</b>! Congratulations!</h>
 <br>
 05-02-2024
 <h> <b>Lusheng</b>, <b>Mengtao</b> and <b>Hanyu</b> respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
@@ -346,7 +346,7 @@ permalink: /news/
 <h> Shibiao is appointed as the <b>Editor-in-Chief</b> for <b>Current Proteomics</b> (SCI-indexed)! The link is <a href="https://benthamscience.com/journal/70/editorial-board">here</a>.</h>
 <br>
 12-27-2023
-<h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center (BCC) American Cancer Society (ACS) Institutional Research Grant (IRG) Seed Grants Program</b>! </h>
+<h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center (BCC) American Cancer Society (ACS) Institutional Research Grant (IRG) Seed Grants Program</b>! Congratulations!</h>
 <br>
 12-21-2023
 <h> <b>Wenhao</b> joins our lab as a research intern. Welcome aboard!</h>
@@ -436,7 +436,7 @@ permalink: /news/
 <h> Shibiao is invited to join the <b>AI Task Force</b> in UNMC and Nebraska Medicine.</h>
 <br>
 06-19-2023
-<h> Shibiao, as a PI, is awarded the <b>ACORN Pilot Grant</b>, with Dr. Jieqiong Wang as the co-PI!</h>
+<h> Shibiao, as a PI, is awarded the <b>ACORN Pilot Grant</b>, with Dr. Jieqiong Wang as the co-PI! Congratulations!</h>
 <br>
 06-05-2023
 <h> Shibiao is invited to give a seminar talk for <b>Department of Biochemistry and Molecular Biology at UNMC</b>. </h>
@@ -490,7 +490,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>BMC Bioinformatics</b> (IF 3.328). </h>
 <br>
 12-30-2022
-<h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center Pilot Grant</b>! </h>
+<h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center Pilot Grant</b>! Congratulations!</h>
 <br>
 12-06-2022
 <h> Shibiao is invited to serve as a handling editor for <b>Frontiers in Immunology</b> (IF 8.786). </h>
