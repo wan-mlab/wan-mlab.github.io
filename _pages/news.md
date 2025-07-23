@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 07-23-2025
-<h> Shibiao is awarded an <b>NSF Smart and Connected Health (SCH) grant</b> by NSF to develop a novel multi-modal transfer learning framework to maximize health outcomes for breast cancer. It will be a four-year grant with a start date as Aug-01-2025.</h>
+<h> Shibiao is awarded an <b>NSF Smart and Connected Health (SCH) grant</b> by NSF to develop a novel multi-modal transfer learning framework to maximize health outcomes for breast cancer. It will be a four-year grant with a start date as Aug-01-2025. Congratulations!</h>
 <br>
 07-22-2025
 <h>Shibiao is invited to serve as the <b>Co-Chair for Publicity Committee</b> for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> to be held from Aug. 3-5, 2025 in Columbus, OH. The link is <a  href="https://icibm2025.iaibm.org/Organization%20Committee.htm">here</a>.</h>
