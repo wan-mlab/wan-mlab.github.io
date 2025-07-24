@@ -8,7 +8,7 @@ permalink: /news/
 # News
 07-24-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Genome Research</b>, a flagship journal in Genetics and Genomics published by Cold Spring Harbor Laboratory Press.</h>
-<br>  
+<br>
 07-23-2025
 <h> Shibiao is awarded an <b>NSF Smart and Connected Health (SCH) grant</b> by NSF to develop a novel multi-modal deep learning and statistical framework to maximize health outcomes for breast cancer. It will be a four-year grant with a start date as Aug-01-2025. Congratulations!</h>
 <br>
