@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 07-28-2025
-<h> A collaboration research article “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is accepted in <b>Cancer Letters</b> (IF 10.1). <b>Lusheng</b> and <b>Shibiao</b> are co-author. Congratulations!</h>
+<h> A collaboration research article “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is accepted in <b>Cancer Letters</b> (IF 10.1). <b>Lusheng</b> is co-author. Congratulations!</h>
 <br>
 07-24-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Genome Research</b>, a flagship journal in Genetics and Genomics published by Cold Spring Harbor Laboratory Press.</h>
