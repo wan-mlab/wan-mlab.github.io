@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 07-28-2025
-<h> A collaboration research article “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is accepted in <b>Cancer Letters</b> (IF 10.1), for which <b>Lusheng</b> is a co-author. Congratulations!</h>
+<h> A collaboration research article “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is accepted by <b>Cancer Letters</b> (IF 10.1), for which <b>Lusheng</b> is a co-author. Congratulations!</h>
 <br>
 07-24-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Genome Research</b>, a flagship journal in Genetics and Genomics published by Cold Spring Harbor Laboratory Press.</h>
@@ -64,7 +64,7 @@ permalink: /news/
 <h> <b>Dr. Xiaoting Fan</b> joins our lab as a visiting research scholar. Welcome aboard!</h>
 <br>
 05-06-2025
-<h>A collaboration journal article on liver cancer with Dr. Jun Yang from St. Jude is accepted and published in <b>eLife</b>. The link is <a  href="https://elifesciences.org/articles/101299">here</a>.</h>
+<h>A collaboration journal article on liver cancer with Dr. Jun Yang from St. Jude is published in <b>eLife</b>. The link is <a  href="https://elifesciences.org/articles/101299">here</a>.</h>
 <br>
 05-05-2025
 <h>Shibiao gives a seminar talk on "Leveraging AI for Characterizing Pediatric Cancer" for <b>CHRI Artificial Intelligence (AI) Virtual Seminar Series</b> of UNMC.</h>
