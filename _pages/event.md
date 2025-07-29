@@ -71,7 +71,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>              
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">08/05/2025</td>
+                <td height = "50">08/12/2025</td>
                 <td height = "50">DBSCAN​​</td>
                 <td height = "50">7003</td>
             </tr>
