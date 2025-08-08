@@ -25,7 +25,47 @@ permalink: /labm/
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>              
+            </tr> 
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">10/17/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">10/10/2025</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">10/03/2025</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Nick Peterson</td>
+                <td height = "50">09/26/2025</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">09/19/2025</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">09/12/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Xiaoting Fan</td>
+                <td height = "50">09/05/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">08/29/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">08/22/2025</td>
