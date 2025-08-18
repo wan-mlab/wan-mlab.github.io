@@ -28,42 +28,42 @@ permalink: /labm/
             </tr> 
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">10/17/2025</td>
+                <td height = "50">10/14/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">10/10/2025</td>
+                <td height = "50">10/07/2025</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">10/03/2025</td>
+                <td height = "50">09/30/2025</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Nick Peterson</td>
-                <td height = "50">09/26/2025</td>
+                <td height = "50">09/23/2025</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">09/19/2025</td>
+                <td height = "50">09/16/2025</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">09/12/2025</td>
+                <td height = "50">09/09/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Xiaoting Fan</td>
-                <td height = "50">09/05/2025</td>
+                <td height = "50">09/02/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">08/29/2025</td>
+                <td height = "50">08/26/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
