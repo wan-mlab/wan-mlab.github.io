@@ -6,6 +6,12 @@ permalink: /news/
 ---
 
 # News
+08-20-2025
+<h><b>Shibiao</b> gives a talk for the <b>Pediatric Cancer Research Symposium 2025</b>. <b>Mengtao</b> and <b>Lusheng</b> present two posters.</h>
+<br> 
+08-19-2025
+<h><b>Mengtao</b>, <b>Lusheng</b>, <b>Nick</b>, <b>Xinchao</b> and <b>Min-jeong</b> present posters for <b>BISB and MGCB Student Research Forum 2025</b>, UNMC Truhlsen Campus Events Center.</h>
+<br> 
 08-04-2025
 <h> Shibiao gives a featured talk on leveraging AI for characterizing pediatric cancer for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> in Houston, TX. The conference program is <a  href="https://icibm2025.iaibm.org/Schedule_files/ICIBM2025%20Program%20Book_2025.07.23_v1.pdf">here</a>. </h>
 <br> 
