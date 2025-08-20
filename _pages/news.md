@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 08-20-2025
+<h><b>Mengtao</b> and <b>Lusheng</b> present two posters for the <b>Pediatric Cancer Research Symposium 2025</b>.</h></h>
+<br> 
+08-20-2025
 <h><b>Shibiao</b> gives a talk for the <b>Pediatric Cancer Research Symposium 2025</b>. <b>Mengtao</b> and <b>Lusheng</b> present two posters.</h>
 <br> 
 08-19-2025
