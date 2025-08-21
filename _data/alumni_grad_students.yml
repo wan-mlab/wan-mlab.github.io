@@ -1,0 +1,25 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Hanyu Xiao
+  photo: hanyu_0129_.png
+  info: Graduate Student
+  email: haxiao@unmc.edu
+  number_educ: 2
+  education1: MSc in Molecular Genetics & Cell Biology, University of Nebraska Medical Center, USA, 2025
+  education2: BSc in Biological Science, Huazhong University of Science and Technology, China, 2023
+
+- name: Kah Meng Soh 
+  photo: Charlie_Soh.jpg
+  info: Graduate Student (co-supervised with Dr. Jieqiong Wang)
+  email: soh00009@umn.edu
+  number_educ: 2
+  education1: MSc in Statistics, University of Minnesota, USA, 2024
+  education2: BSc in Actuarial Science, University of Nebraska-Lincoln, USA, 2019
