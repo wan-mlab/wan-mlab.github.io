@@ -81,3 +81,26 @@
   number_educ: 2
   education1: M.S. Bio Medical Informatics, University of Nebraska at Omaha, USA, 2024
   education2: B.S. Agriculture Science, Loyola Academy - Hyderabad, India, 2021
+
+- name: Sili Li
+  photo: Sili_Li.JPG
+  info: Intern Student 
+  email: sli955@wisc.edu 
+  number_educ: 1
+  education1: B.S. Computer Science & Mathematics for Programming and Computing, University of Wisconsin - Madison, USA, 2026
+  
+- name: Xingmin Hu 
+  photo: Xingmin_Hu.jpg
+  info: Intern Student 
+  email: Hxm678@outlook.com
+  number_educ: 1
+  education1: B.S. Financial Engineering, Central University of Finance and Economics, China, 2026
+
+- name: Nishitha Reddy Thummala 
+  photo: NRT.jpg
+  info: Intern Student 
+  email: thummalanishithareddy@gmail.com
+  number_educ: 2
+  education1: M.S. Computer Science, University of Nebraska Omaha, USA, 2025
+  education2: B.S. Computer Science, Keshav Memorial Institute of Technology, India, 2022
+  
