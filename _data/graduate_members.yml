@@ -6,13 +6,6 @@
   education1: MSc in Applied Genomics, Imperial College London, 2022
   education2: BSc in Agronomy, China Agricultural University, 2020
 
-- name: Hanyu Xiao
-  photo: hanyu_0129_.png
-  info: Graduate Student
-  email: haxiao@unmc.edu
-  number_educ: 1
-  education1: BSc in Biological Science, Huazhong University of Science and Technology, China, 2023
-
 - name: Mengtao Sun
   photo: mengtao.png
   info: Graduate Student
@@ -35,14 +28,6 @@
   email: nbpme2002@gmail.com
   number_educ: 1 
   education1: BSc in Biology, University of Nebraska Omaha, USA, 2024
-  
-- name: Kah Meng Soh 
-  photo: Charlie_Soh.jpg
-  info: Graduate Student (co-supervised with Dr. Jieqiong Wang)
-  email: soh00009@umn.edu
-  number_educ: 2
-  education1: MSc in Statistics, University of Minnesota, USA, 2024
-  education2: BSc in Actuarial Science, University of Nebraska-Lincoln, USA, 2019
 
 - name: Min-jeong Baek
   photo: MJ.jpg
