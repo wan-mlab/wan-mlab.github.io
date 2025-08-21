@@ -10,7 +10,7 @@ permalink: /Alumni/
 ## Graduate Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_intern_students %}
+{% for member in site.data.alumni_grad_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
