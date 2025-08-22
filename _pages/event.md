@@ -35,37 +35,37 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>
             <tr>
                 <td height = "50">Nicholas Peterson</td>
-                <td height = "50">11/25/2025</td>
+                <td height = "50">11/14/2025</td>
                 <td height = "50">Federated Learning</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">11/11/2025</td>
+                <td height = "50">10/31/2025</td>
                 <td height = "50">Bayesian Neural Network</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">10/28/2025</td>
+                <td height = "50">10/17/2025</td>
                 <td height = "50">Transfer Entropy​​</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">10/14/2025</td>
+                <td height = "50">10/03/2025</td>
                 <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">09/30/2025</td>
+                <td height = "50">09/19/2025</td>
                 <td height = "50">Alternating Direction Method of Multipliers (ADMM)​​</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">09/16/2025</td>
+                <td height = "50">09/05/2025</td>
                 <td height = "50">​​</td>
                 <td height = "50">7003</td>
             </tr>                                 
