@@ -25,11 +25,6 @@ permalink: /labm/
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr> 
-            <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">10/14/2025</td>
-                <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
@@ -47,22 +42,22 @@ permalink: /labm/
                 <td height = "50">7003</td>
             </tr>
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">09/16/2025</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">09/09/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
-                <td height = "50">Xiaoting Fan</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">09/02/2025</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">Xiaoting Fan</td>
                 <td height = "50">08/26/2025</td>
                 <td height = "50">7003</td>
             </tr>             
