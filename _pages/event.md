@@ -66,7 +66,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">09/05/2025</td>
-                <td height = "50">​​</td>
+                <td height = "50">​​Natural Language Processing (NLP)</td>
                 <td height = "50">7003</td>
             </tr>                                 
             <tr>
