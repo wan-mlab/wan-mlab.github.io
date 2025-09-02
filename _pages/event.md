@@ -52,15 +52,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">10/03/2025</td>
-                <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
+                <td height = "50">Alternating Direction Method of Multipliers (ADMM)</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">09/19/2025</td>
-                <td height = "50">Alternating Direction Method of Multipliers (ADMM)​​</td>
+                <td height = "50">KAN: Kolmogorov–Arnold Networks​​​​</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
