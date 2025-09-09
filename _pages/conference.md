@@ -8,6 +8,74 @@ permalink: /conference/
 <br>
 <br>
 <br>
+<html lang="en">
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+    
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 100%; border-collapse: collapse;">
+        <tbody align = "center">
+            <tr style="border-bottom: 2px solid black;">
+                <td height="50" colspan="6"><b>2026 Schedule</b></td>
+            </tr>
+            <tr style="border-bottom: 2px solid black;">
+                <td height = "50"><b>Conference</b></td>
+                <td height = "50"><b>Locations</b></td>
+                <td height = "50"><b>Dates</b></td>
+                <td height = "50"><b>Deadlines</b></td>
+                <td height = "50"><b>Links</b></td>
+            </tr>        
+            <tr>
+                <td height = "50">RECOMB 2026</td>
+                <td height = "50">THESSALONIKI, GREECE</td>
+                <td height = "50">May 26-29, 2026</td>
+                <td height = "50">Abstract/paper registration: TBA</td>
+                <td height = "50"><a href="https://recomb.org/recomb2026/index.html" target="_blank">https://recomb.org/recomb2026/index.html</a></td>
+            </tr>
+            <tr>
+                <td height = "50">AACR 2026</td>
+                <td height = "50">San Diego, California</td>
+                <td height = "50">April 17-22, 2026</td>
+                <td height = "50">Abstract: Nov. 18, 2025</td>
+                <td height = "50"><a href="https://www.aacr.org/meeting/aacr-annual-meeting-2025/" target="_blank">https://www.aacr.org/meeting/aacr-annual-meeting-2025/</a></td>
+            </tr>
+              <tr>
+                <td height = "50">IEEE EMBC 2026</td>
+                <td height = "50">Toronto, Canada</td>
+                <td height = "50">July 20-24, 2026</td>
+                <td height = "50">Workshops: TBA; Full Papers: TBA</td>
+                <td height = "50"><a href="https://embc.embs.org/2026/welcome/" target="_blank">https://embc.embs.org/2026/welcome/</a></td>
+            </tr>          
+            <tr>
+                <td height = "50">ISMB/ECCB 2026</td>
+                <td height = "50">Washington, DC</td>
+                <td height = "50">July 12-16, 2026</td>
+                <td height = "50">Abstracts: unavailable; Proceedings: unavailable</td>
+                <td height = "50"><a href="https://www.iscb.org/ismb2026/key-dates" target="_blank">https://www.iscb.org/ismb2026/key-dates</a></td>
+            </tr>
+            <tr>
+                <td height = "50">IEEE BIBM 2026</td>
+                <td height = "50">TBA</td>
+                <td height = "50">TBA</td>
+                <td height = "50">Full Papers: TBA</td>
+                <td height = "50"><a href="https://ieeebibm.org/BIBM2025/" target="_blank">https://ieeebibm.org/BIBM2025/</a></td>
+            </tr>
+            <tr>
+                <td height = "50">ACM BCB 2026</td>
+                <td height = "50">unavailable</td>
+                <td height = "50">unavailable</td>
+                <td height = "50">unavailable</td>
+                <td height = "50">unavailable</td>
+            </tr>
+            <tr>
+                <td height = "50">ICIBM 2026</td>
+                <td height = "50">TBA</td>
+                <td height = "50">TBA</td>
+                <td height = "50">Abstracts: TBA</td>
+                <td height = "50"><a href="https://icibm2025.iaibm.org/" target="_blank">https://icibm2025.iaibm.org/</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 <br>
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
