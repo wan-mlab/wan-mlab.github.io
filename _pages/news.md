@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+09-10-2025
+<h> Shibiao is invited to serve as a reviewer for <b>IEEE Transactions on Evolutionary Computation</b> (IF 12).</h>
+<br>
 08-28-2025
 <h> Shibiao is invited to serve as a reviewer for <b>Nature Biotechnology</b> (IF 41.7).</h>
 <br>
