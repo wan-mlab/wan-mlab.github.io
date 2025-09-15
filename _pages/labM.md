@@ -25,19 +25,54 @@ permalink: /labm/
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>             
+            </tr>
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">10/07/2025</td>
+                <td height = "50">11/25/2025</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">09/30/2025</td>
+                <td height = "50">11/18/2025</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
+                <td height = "50">11/11/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Nick Peterson</td>
+                <td height = "50">11/04/2025</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">10/28/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">10/21/2025</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">10/14/2025</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">10/07/2025</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">09/30/2025</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Xingzhi Niu</td>
                 <td height = "50">09/23/2025</td>
                 <td height = "50">7003</td>
             </tr>
