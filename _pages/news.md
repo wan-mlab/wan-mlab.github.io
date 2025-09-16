@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+09-16-2025
+'<h> An article titled “RPSLearner: A Novel Approach based on Random Projection and Deep Stacking Learning for Categorizing NSCLC” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Xinchao</b>!</h>'
+<br>
 09-10-2025
 <h> Shibiao is invited to serve as a reviewer for <b>IEEE Transactions on Evolutionary Computation</b> (IF 12).</h>
 <br>
