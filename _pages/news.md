@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+10-05-2025
+'<h> An article titled “RPSLearner: A Novel Approach based on Random Projection and Deep Stacking Learning for Categorizing NSCLC” is published at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635">here</a>. Congratulations to <b>Xinchao</b>!</h>'
+<br>
 09-16-2025
 <h> An article titled “RPSLearner: A Novel Approach based on Random Projection and Deep Stacking Learning for Categorizing NSCLC” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Xinchao</b>!</h>
 <br>
