@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 10-12-2025
-<h> Our research intern Eswar is selected as the best poster presentation for the Midlands Society of Physiological Sciences. Congratulations to <b>Eswar</b>!</h>
+<h> <b>Eswar</b>, an SURP program member from our lab, is awarded the <b>Best Poster Presentation</b> from the Annual Meeting of Midlands Society of Physiological Sciences. Congratulations to <b>Eswar</b>!</h>
 <br>
 10-05-2025
 <h> An article titled “RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer” is published at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635">here</a>. Congratulations to <b>Xinchao</b>!</h>
