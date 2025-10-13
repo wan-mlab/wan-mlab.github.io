@@ -21,6 +21,10 @@ permalink: /achievements/
                 <td height = "50" style="text-align: center; width: 85%;"><b>Achievements</b></td>
             </tr>
             <tr>
+              <td height = "50" style="text-align: center;">10-12-2025</td>
+              <td height = "50" >   <b>Eswar Ramamurthy</b> is selected as <b>the best poster presentation for the Midlands Society of Physiological Sciences</b></td>
+            </tr> 
+            <tr>
               <td height = "50" style="text-align: center;">06-30-2025</td>
               <td height = "50" >   <b>Bulidierxin Tuerhanbayi</b> is awarded <b>the Ray H. Frohn Incoming Graduate Student Scholarship</b></td>
             </tr> 
