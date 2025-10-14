@@ -27,7 +27,7 @@ permalink: /conference/
                 <td height = "50">RECOMB 2026</td>
                 <td height = "50">THESSALONIKI, GREECE</td>
                 <td height = "50">May 26-29, 2026</td>
-                <td height = "50">Abstract/paper registration: TBA</td>
+                <td height = "50">Abstract/paper registration: Nov. 7</td>
                 <td height = "50"><a href="https://recomb.org/recomb2026/index.html" target="_blank">https://recomb.org/recomb2026/index.html</a></td>
             </tr>
             <tr>
@@ -48,7 +48,7 @@ permalink: /conference/
                 <td height = "50">ISMB/ECCB 2026</td>
                 <td height = "50">Washington, DC</td>
                 <td height = "50">July 12-16, 2026</td>
-                <td height = "50">Abstracts: unavailable; Proceedings: unavailable</td>
+                <td height = "50">Abstracts: Apr. 9; Proceedings: Jan. 20</td>
                 <td height = "50"><a href="https://www.iscb.org/ismb2026/key-dates" target="_blank">https://www.iscb.org/ismb2026/key-dates</a></td>
             </tr>
             <tr>
