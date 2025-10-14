@@ -22,7 +22,7 @@ permalink: /achievements/
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">10-12-2025</td>
-              <td height = "50" >   <b>Eswar Ramamurthy</b> is selected as <b>the best poster presentation for the Midlands Society of Physiological Sciences</b></td>
+              <td height = "50" >   <b>Eswar</b> is awarded the <b>Best Poster Presentation</b> from the Annual Meeting of Midlands Society of Physiological Sciences</td>
             </tr> 
             <tr>
               <td height = "50" style="text-align: center;">06-30-2025</td>
