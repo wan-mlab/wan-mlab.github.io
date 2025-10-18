@@ -28,7 +28,7 @@ permalink: /news/
 <h><b>Mengtao</b>, <b>Lusheng</b>, <b>Nick</b>, <b>Xinchao</b> and <b>Min-jeong</b> present posters for <b>BISB and MGCB Student Research Forum 2025</b>, UNMC Truhlsen Campus Events Center.</h>
 <br> 
 08-04-2025
-<h> Shibiao gives a featured talk on leveraging AI for characterizing pediatric cancer for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> in Houston, TX. The conference program is <a  href="https://icibm2025.iaibm.org/Schedule_files/ICIBM2025%20Program%20Book_2025.07.23_v1.pdf">here</a>. </h>
+<h> Shibiao gives a featured talk on leveraging AI for characterizing pediatric cancer for <b>The 2025 International Conference on Intelligent Biology and Medicine (ICIBM 2025)</b> in Columbus, OH. The conference program is <a  href="https://icibm2025.iaibm.org/Schedule_files/ICIBM2025%20Program%20Book_2025.07.23_v1.pdf">here</a>. </h>
 <br> 
 07-28-2025
 <h> A collaboration research article “ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis” is accepted by <b>Cancer Letters</b> (IF 10.1), for which <b>Lusheng</b> is a co-author. Congratulations! The link is <a  href="https://www.sciencedirect.com/science/article/pii/S0304383525005282?via%3Dihub">here</a>.</h>
