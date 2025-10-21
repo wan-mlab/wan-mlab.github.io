@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 10-16-2025
-<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Lusheng</b>!</h>
+<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
 <br>
 10-12-2025
 <h> <b>Eswar</b>, an SURP program member from our lab, is awarded the <b>Best Poster Presentation</b> from the Annual Meeting of Midlands Society of Physiological Sciences. Congratulations to <b>Eswar</b>!</h>
