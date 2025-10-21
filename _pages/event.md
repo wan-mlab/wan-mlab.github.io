@@ -34,6 +34,24 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">01/23/2026</td>
+                <td height = "50">elastic net</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">01/09/2026</td>
+                <td height = "50">Harmony (single cell integration)​​​​</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">12/12/2025</td>
+                <td height = "50">Monocle (single cell trajectory inference)</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
                 <td height = "50">Nicholas Peterson</td>
                 <td height = "50">11/14/2025</td>
                 <td height = "50">Federated Learning</td>
