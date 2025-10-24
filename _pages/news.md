@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+10-24-2025
+<h>Shibiao gives a talk for <b>FPBCC Cancer Biology Program Monthly Meeting</b> at UNMC.</h>
+<br>
 10-22-2025
 <h>Shibiao is awarded the <b>Certificate of Achievement in Research</b> for FY2025 by College of Medicine at UNMC.</h>
 <br>
