@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 10-22-2025
-<h>Shibiao is awarded the <b>Certificate of Achievement in Research</b> For FY2025 by College of Medicine at UNMC.</h>
+<h>Shibiao is awarded the <b>Certificate of Achievement in Research</b> for FY2025 by College of Medicine at UNMC.</h>
 10-16-2025
 <h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
 <br>
