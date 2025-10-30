@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+10-30-2025
+<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
+<br>
 10-24-2025
 <h> A journal article collaborating with Dr. Huggins from University of Monterrey is accepted by <b>Frontiers in Psychology</b>.</h>
 10-24-2025
@@ -13,9 +16,6 @@ permalink: /news/
 <br>
 10-22-2025
 <h>Shibiao is awarded the <b>Certificate of Achievement in Research</b> for FY2025 by College of Medicine at UNMC.</h>
-<br>
-10-16-2025
-<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
 <br>
 10-12-2025
 <h> <b>Eswar</b>, an SURP program member from our lab, is awarded the <b>Best Poster Presentation</b> from the Annual Meeting of Midlands Society of Physiological Sciences. Congratulations to <b>Eswar</b>!</h>
