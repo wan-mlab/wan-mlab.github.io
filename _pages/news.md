@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 11-04-2025
-<h> Shibiao is invited to serve as a facilitator for <b>Collaboration Initiative Annual Meeting</b> in the research area of <b>Cancer Prevention, Screening, and Early Intervention</b> to be held on Nov-14-2025.</h>
+<h> Shibiao is invited to serve as a facilitator for <b>University of Nebraska System Faculty Collaboration Initiative Annual Meeting</b> in the research area of <b>Cancer Prevention, Screening, and Early Intervention</b> to be held on Nov-14-2025.</h>
 <br>
 10-30-2025
 <h>Congratulations to <b>Mengtai</b> for passing the PhD comprehensive exam!</h>
