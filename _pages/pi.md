@@ -52,7 +52,8 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 
 ### AWARDS & HONORS
 - Springer Nature Editor of Distinction Award, Springer Nature, 2025;
-- New Investigator Award, awarded by UNMC, Omaha, NE, USA, 2024;
+- Certificate of Achievement in Research, UNMC College of Medicine, Omaha, NE, USA, 2025;
+- New Investigator Award, UNMC, Omaha, NE, USA, 2024;
 - FIRST Award of Nebraska EPSCoR Program, Lincoln, NE, USA, 2023;
 - IEEE Senior Member, Piscataway, NJ, USA, 2022;
 - EIE Outstanding Young Alumni Award, awarded by The Hong Kong Polytechnic University, HK SAR, China, 2022;
