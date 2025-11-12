@@ -16,7 +16,8 @@ permalink: /news/
 <h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
 <br>
 10-24-2025
-<h> A journal article collaborating with Dr. Huggins from University of Monterrey is accepted by <b>Frontiers in Psychology</b>.</h>
+<h> A journal article collaborating with Dr. Huggins from University of Monterrey is accepted by <b>Frontiers in Psychology</b>.</h> The link is <a  href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1722414/full">here</a>.
+<br>
 10-24-2025
 <h>Shibiao gives a talk for <b>FPBCC Cancer Biology Program Monthly Meeting</b> at UNMC.</h>
 <br>
