@@ -38,7 +38,7 @@ permalink: /news/
 <br>
 09-14-2025
 <h> <b>The Annual Lab Lunch and Party</b> for members from <b>Wan Lab</b> and <b>Wang Lab</b> is held at Shibiao's home. Enjoy!</h>
-<br>  
+<br>
 09-10-2025
 <h> Shibiao is invited to serve as a reviewer for <b>IEEE Transactions on Evolutionary Computation</b> (IF 12).</h>
 <br>
