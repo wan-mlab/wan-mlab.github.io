@@ -36,6 +36,9 @@ permalink: /news/
 10-05-2025
 <h> An article titled “RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer” is published at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635">here</a>. Congratulations to <b>Xinchao</b>!</h>
 <br>
+09-24-2025
+<h>A new grant of <b>NIH/NIGMS Supplemental Funding to UNMC Center for Heart and Vascular Research (CHVR)</b> has been awarded to our team (Dr. Jieqiong Wang as the Project Leader and Shibiao as a co-I)! Congratulations!</h>
+<br>
 09-14-2025
 <h> <b>The Annual Lab Lunch and Party</b> for members from <b>Wan Lab</b> and <b>Wang Lab</b> is held at Shibiao's home. Enjoy!</h>
 <br>
