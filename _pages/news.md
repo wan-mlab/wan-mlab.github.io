@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+11-19-2025
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) in Biodata Management and Computational Modeling</b>.</h>
+<br>
 11-14-2025
 <h> Shibiao is invited to serve as a reviewer for <b>ACM Computing Surveys</b> (<b>IF 28</b>; <b>ranked 1/147</b> in Computer Science Theory & Methods).</h>
 <br>
