@@ -37,7 +37,7 @@ permalink: /news/
 <h> An article titled “RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer” is published at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635">here</a>. Congratulations to <b>Xinchao</b>!</h>
 <br>
 09-14-2025
-<h> <b>The Annual Lab Lunch and Party</b> for members from <b>Wan Lab</b> and <b>Wang Lab</b> is held at Dr. Wan's home. Enjoy!</h>
+<h> <b>The Annual Lab Lunch and Party</b> for members from <b>Wan Lab</b> and <b>Wang Lab</b> is held at Shibiao's home. Enjoy!</h>
 <br>  
 09-10-2025
 <h> Shibiao is invited to serve as a reviewer for <b>IEEE Transactions on Evolutionary Computation</b> (IF 12).</h>
