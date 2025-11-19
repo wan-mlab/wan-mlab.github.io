@@ -16,7 +16,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as a facilitator for <b>University of Nebraska System Faculty Collaboration Initiative Annual Meeting</b> in the research area of <b>Cancer Prevention, Screening, and Early Intervention</b> to be held on Nov-14-2025.</h>
 <br>
 10-30-2025
-<h>Congratulations to <b>Mengtai</b> for passing the PhD comprehensive exam!</h>
+<h>Congratulations to <b>Mengtao</b> for passing the PhD comprehensive exam!</h>
 <br>
 10-30-2025
 <h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
@@ -37,7 +37,7 @@ permalink: /news/
 <h> An article titled “RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer” is published at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635">here</a>. Congratulations to <b>Xinchao</b>!</h>
 <br>
 09-24-2025
-<h>A new grant of <b>NIH/NIGMS Supplemental Funding to UNMC Center for Heart and Vascular Research (CHVR)</b> has been awarded to our team (Dr. Jieqiong Wang as the Project Leader/Point of Contact and Shibiao as a co-I)! Congratulations!</h>
+<h>A new grant of <b>NIH/NIGMS Supplemental Funding to UNMC Center for Heart and Vascular Research (CHVR)</b> has been awarded to our team (Dr. Jieqiong Wang as the Project Leader and Shibiao as a co-I)! Congratulations!</h>
 <br>
 09-14-2025
 <h> <b>The Annual Lab Lunch and Party</b> for members from <b>Wan Lab</b> and <b>Wang Lab</b> is held at Shibiao's home. Enjoy!</h>
