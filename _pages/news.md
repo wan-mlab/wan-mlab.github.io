@@ -10,7 +10,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as a reviewer for <b>ACM Computing Surveys</b> (<b>IF 28</b>; <b>ranked 1/147</b> in Computer Science Theory & Methods).</h>
 <br>
 11-05-2025
-<h> As an International Research Scholar, <b>Dr. Xiaoting Fan</b> from Linyi People's Hospital has successfully completed her 6-month visit to Wan Lab! Best wishes to Dr. Fan's future career!</h>
+<h> As an International Research Scholar, <b>Dr. Xiaoting Fan</b> has successfully completed her 6-month visit to Wan Lab! Best wishes to Dr. Fan's future career!</h>
 <br>
 11-04-2025
 <h> Shibiao is invited to serve as a facilitator for <b>University of Nebraska System Faculty Collaboration Initiative Annual Meeting</b> in the research area of <b>Cancer Prevention, Screening, and Early Intervention</b> to be held on Nov-14-2025.</h>
