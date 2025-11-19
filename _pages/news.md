@@ -115,7 +115,7 @@ permalink: /news/
 <h> A research article preprint “RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1">here</a>. Congratulations to <b>Xinchao</b>!</h>
 <br>
 05-07-2025
-<h> <b>Dr. Xiaoting Fan</b> joins our lab as a visiting research scholar. Welcome aboard!</h>
+<h> <b>Dr. Xiaoting Fan</b> from Linyi People's Hospital joins our lab as a visiting research scholar. Welcome aboard!</h>
 <br>
 05-06-2025
 <h>A collaboration journal article on liver cancer with Dr. Jun Yang from St. Jude is accepted and published by <b>eLife</b>. The link is <a  href="https://elifesciences.org/articles/101299">here</a>.</h>
