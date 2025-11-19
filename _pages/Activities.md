@@ -5,7 +5,7 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
-## Visiting Research Scholar <b>Dr. Fan</b> successfully completed her 6 months visit on Wan Lab!
+## <b>Dr. Xiaoting Fan</b> from Linyi People's Hospital (Shandong, China) successfully completed her 6-month visit to Wan Lab!
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel13" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
