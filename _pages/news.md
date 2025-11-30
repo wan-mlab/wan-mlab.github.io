@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 11-30-2025
-<h> A research article titled “Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat” is accepted at the journal <b>Molecular Oncology</b>. Congratulations to <b>Mengtao</b>!</h>
+<h> A research article titled “Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat” is accepted by the journal <b>Molecular Oncology</b>. Congratulations to <b>Mengtao</b>!</h>
 <br>
 11-26-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the Natural Sciences and Engineering Research Council of Canada (NSERC)</b>.</h>
@@ -28,7 +28,7 @@ permalink: /news/
 <h>Congratulations to <b>Mengtao</b> for passing the PhD comprehensive exam!</h>
 <br>
 10-30-2025
-<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted at the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
+<h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted by the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
 <br>
 10-24-2025
 <h> A journal article collaborating with Dr. Huggins from University of Monterrey is accepted by <b>Frontiers in Psychology</b>. The link is <a  href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1722414/full">here</a>.</h>
