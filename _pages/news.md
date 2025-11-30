@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+11-30-2025
+<h> An article titled “Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat” is accepted at the journal <b>Molecular Oncology</b>. Congratulations to <b>Mengtao</b>!</h>
+<br>
 11-26-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the Natural Sciences and Engineering Research Council of Canada (NSERC)</b>.</h>
 <br>
