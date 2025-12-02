@@ -9,35 +9,35 @@ permalink: /pi/
 
 ### Highlights
 
-- \>70 [Publications]({{ site.url }}{{ site.baseurl }}/publications)
+- <b>\>70 [Publications]({{ site.url }}{{ site.baseurl }}/publications)</b>
 
-- <a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1900
+- <b><a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1900</b>
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editor-in-Chief</a> for Current Proteomics
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Editor-in-Chief</b></a> for Current Proteomics
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), Discover Oncology (IF: 2.8), International Journal of Microbiology (IF: 3.4), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</b></a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), Discover Oncology (IF: 2.8), International Journal of Microbiology (IF: 3.4), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Guest Associate Editor</a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Guest Associate Editor</b></a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
-- <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank">Scientific Program Committee (SPC) Member</a> for AMIA Annual Symposium (2025-present).
+- <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank"><b>Scientific Program Committee (SPC) Member</b></a> for AMIA Annual Symposium (2025-present).
   
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank">Technical Program Committee (TPC) Member</a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank"><b>Technical Program Committee (TPC) Member</b></a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >70 journals including Nature Biotechnology (IF: 41.7), Nature Methods (IF: 32.1), Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank"><b>Reviewer</b></a> for >70 journals including <b>Nature Biotechnology (IF: 41.7)</b>, <b>Nature Methods (IF: 32.1)</b>, Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
 
 - <b>Top Reviewers (top 1%)</b> in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
-- Developed 20 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
+- Developed <b>>20 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a></b>
 
-- Springer Nature Editor of Distinction Award by Springer Nature (2025)
+- <b>Springer Nature Editor of Distinction Award</b> by Springer Nature (2025)
   
-- New Investigator Award by UNMC (2024)
+- <b>New Investigator Award</b> by UNMC (2024)
 
-- FIRST Award by Nebraska EPSCoR Program (2023)
+- <b>FIRST Award</b> by Nebraska EPSCoR Program (2023)
 
-- Outstanding Young Alumni Awardee (2022)
+- <b>Outstanding Young Alumni Awardee</b> by The Hong Kong Polytechnic University (2022)
 
-- IEEE Senior Member
+- <b>IEEE Senior Member</b>
 
 ### Brief Biography
 <a href = "https://www.unmc.edu/genetics/about/faculty/wan.html" target="_blank">Dr. Shibiao Wan</a> (traditional Chinese: 萬時彪，simplified Chinese: 万时彪) is currently an Assistant Professor in the <a href="https://www.unmc.edu/genetics/" target="_blank">Department of Genetics, Cell Biology and Anatomy</a>, and the <a href="https://catalog.unmc.edu/graduate-studies/programs-requirements/phd/igpbs/bisb/" target="_blank">Co-Director</a> for the <a href = "https://www.unmc.edu/gradstudies/programs/igpbs/bioinformatics-systems-biology/index.html" target="_blank">Bioinformatics and Systems Biology (BISB) PhD Program</a> at <a href = "https://www.unmc.edu/" target="_blank">University of Nebraska Medical Center (UNMC)</a>. He is also an Assistant Professor (by courtesy) in the <a href="https://www.unmc.edu/publichealth/departments/biostatistics/index.html" target="_blank">Department of Biostatistics</a> at UNMC. With more than 15 years of experience in machine learning, bioinformatics, and computational biology, Dr. Wan has published >50 articles in prestigious journals like Genome Research, Nature Communications, Science Advances, Circulation Research, Briefings in Bioinformatics, and Bioinformatics. Dr. Wan is the Editor-in-Chief for Current Proteomics, and an Associate Editor/Academic Editor/Editorial Board Member for a series of prestigious journals like Briefings in Functional Genomics, Heliyon, BMC Bioinformatics, Discover Oncology, International Journal of Microbiology, PeerJ Computer Science, BioMed Research International, and Computational and Mathematical Methods, and a guest associate editor for multiple high-impact journals. He is a <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank">Scientific Program Committee (SPC) member</a> for American Medical Informatics Association (AMIA) Annual Symposium and a <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank">Technical Program Committee (TPC) Member</a> for >20 machine learning related international conferences including IEEE ICTAI. Dr. Wan is also a reviewer for >70 prestigious journals including Nature Biotechnology, Nature Methods, Nature Communications, Nature Computational Science, Science Advances, Nucleic Acids Research, Advanced Science, Cancer Research, Genome Biology, and Genome Medicine. Dr. Wan has received a number of accolades including the Springer Nature Editor of Distinction Award in 2025 by Springer Nature, the New Investigator Award in 2024 by UNMC, the FIRST Award in 2023 by Nebraska EPSCoR, the Outstanding Young Alumni Award in 2022 by HK PolyU as well as the Global Peer Review Awards (top 1%) in “Cross-Field” and “Biology and Biochemistry” in 2019 by Clarivate. Dr. Wan is a member of AACR, AMIA, ISCB and ACM and an IEEE Senior Member.
