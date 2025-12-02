@@ -19,9 +19,11 @@ permalink: /pi/
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Guest Associate Editor</b></a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
-- <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank"><b>Scientific Program Committee (SPC) Member</b></a> for AMIA Annual Symposium (2025-present).
+- <b>Co-Chair for Publicity Committee</b> for <b>The 13th International Conference for Intelligent Biology and Medicine (ICIBM2025)</b>.
+
+- <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank"><b>Scientific Program Committee (SPC) Member</b></a> for <b>AMIA Annual Symposium (2025-present)</b>.
   
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank"><b>Technical Program Committee (TPC) Member</b></a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank"><b>Technical Program Committee (TPC) Member</b></a> for <b>IEEE ICTAI (2016-present)</b> and <b>>20</b> other machine learning international conferences
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank"><b>Reviewer</b></a> for >70 journals including <b>Nature Biotechnology (IF: 41.7)</b>, <b>Nature Methods (IF: 32.1)</b>, Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
 
