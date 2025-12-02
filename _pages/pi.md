@@ -9,7 +9,7 @@ permalink: /pi/
 
 ### Highlights
 
-- \>50 [Publications]({{ site.url }}{{ site.baseurl }}/publications) (including one book)
+- \>70 [Publications]({{ site.url }}{{ site.baseurl }}/publications)
 
 - <a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1900
 
