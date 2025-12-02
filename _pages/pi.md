@@ -27,9 +27,15 @@ permalink: /pi/
 
 - Top Reviewers (top 1%) in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
-- Outstanding Young Alumni Awardee (2022)
+- Developed 20 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
 
-- Developed 15 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
+- Springer Nature Editor of Distinction Award by Springer Nature (2025)
+  
+- New Investigator Award by UNMC (2024)
+
+- FIRST Award by Nebraska EPSCoR Program (2023)
+
+- Outstanding Young Alumni Awardee (2022)
 
 - IEEE Senior Member
 
