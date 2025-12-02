@@ -25,7 +25,7 @@ permalink: /pi/
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >70 journals including Nature Biotechnology (IF: 41.7), Nature Methods (IF: 32.1), Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
 
-- Top Reviewers (top 1%) in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
+- <b>Top Reviewers (top 1%)<\b> in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
 - Developed 20 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
 
