@@ -7,6 +7,16 @@
     display: Research Square	
   highlight: 0
   news2:
+
+- title: "1. RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965
+    display: 	Advanced Intelligent Systems, e202500965 (2025)
+  highlight: 0
+  news2:
   
 - title: "1. Editorial: Subjective well-being and human decision behaviors"
   image: 
@@ -15,16 +25,6 @@
   link:
     url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1722414/full
     display: 	Frontiers in Psychology, Volume 16 - 2025
-  highlight: 0
-  news2:
-  
-- title: "1. RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia"
-  image: 
-  description: 
-  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
-  link:
-    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965
-    display: 	Advanced Intelligent Systems, e202500965 (2025)
   highlight: 0
   news2:
   
