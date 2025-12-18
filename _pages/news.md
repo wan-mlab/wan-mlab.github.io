@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+12-18-2025
+<h> A research article preprint “A Multi-Modal Transfer Learning Framework to Reduce Health Disparities in Prostate Adenocarcinoma” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2025.12.15.694538v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
+<br>
 12-03-2025
 <h> A research article preprint “Mapping Structural and Molecular Spatiotemporal Dynamics of Macaque Brain during Development and Aging” collaborating with Dr. Jiaojian Wang's lab is available online at <b>Research Square</b>. The link is <a  href="https://www.researchsquare.com/article/rs-8062839/v1">here</a>. Congratulations to <b>Xinchao</b> as a co-first author!</h>
 <br>
