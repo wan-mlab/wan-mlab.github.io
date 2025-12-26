@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+12-25-2025
+<h> A research article preprint “MOTLAB: A Weighted Multi-Omics Transfer Learning Approach to Mitigate Breast Cancer Racial Disparities” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2025.12.22.696111v1">here</a>. Congratulations to <b>Min-jeong</b> and <b>Lusheng</b>!</h>
+<br>
 12-18-2025
 <h> A research article preprint “A Multi-Modal Transfer Learning Framework to Reduce Health Disparities in Prostate Adenocarcinoma” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2025.12.15.694538v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
 <br>
