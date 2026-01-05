@@ -1,3 +1,13 @@
+- title: "1. nnU-BNST: Deep Learning-Based Automated Segmentation of the Bed Nucleus of the Stria Terminalis"
+  image: 
+  description:
+  authors: Z. Xu, M. Azzam, M. Bivens, M.Dustin, J.U. Blackford, <u>S. Wan</u> and J. Wang*
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-032-09513-8_61
+    display: Machine Learning in Medical Imaging. MLMI 2025. Lecture Notes in Computer Science, vol 16241.
+  highlight: 0
+  news2:
+  
 - title: "1. Processing millions of single cells by SHARP"
   image: 
   description:
