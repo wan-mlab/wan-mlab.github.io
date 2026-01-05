@@ -1,3 +1,13 @@
+- title: "1. nnU-BNST: Deep Learning-Based Automated Segmentation of the Bed Nucleus of the Stria Terminalis"
+  image: 
+  description:
+  authors: Z. Xu, M. Azzam, M. Bivens, M.Dustin, J.U. Blackford, <u>S. Wan</u> and J. Wang*
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2025.12.29.696875v1
+    display: bioRxiv 2025.12.29.696875 (2025)
+  highlight: 0
+  news2:
+  
 - title: "1. MetaPaCS: A novel meta-learning framework for pancreatic cancer subtype identification"
   image: 
   description:
