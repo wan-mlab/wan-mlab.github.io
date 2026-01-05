@@ -17,7 +17,6 @@ We host a biweekly meeting "AI/ML Journal Club" beginning on January 23, 2024, f
 The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 7003.
 
 The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon" target="_blank">https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon</a>.
-
 <br>
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
@@ -34,6 +33,30 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">03/20/2026</td>
+                <td height = "50">Monocle (single cell trajectory inference)</td>
+                <td height = "50">7003</td>
+            </tr>                
+            <tr>
+                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">03/06/2026</td>
+                <td height = "50">Autoformer</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">02/20/2026</td>
+                <td height = "50">Graph Neural Network</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">02/06/2026</td>
+                <td height = "50">Semi-supervised Learning: Linear Neighborhood Propagation</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">01/23/2026</td>
                 <td height = "50">elastic net</td>
@@ -44,7 +67,28 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">01/09/2026</td>
                 <td height = "50">Harmony (single cell integration)​​​​</td>
                 <td height = "50">7003</td>
-            </tr>             
+            </tr>  
+        </tbody>
+    </table>
+</body>
+</html>
+<br>
+<br>
+<br>
+<html lang="en">
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+    
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
+        <tbody align = "center">
+            <tr style="border-bottom: 2px solid black;">
+                <td height="50" colspan="4"><b>2025 Schedule</b></td>
+            </tr>
+            <tr style="border-bottom: 2px solid black;">
+                <td height = "50"><b>Speaker</b></td>
+                <td height = "50"><b>Date</b></td>
+                <td height = "50"><b>Paper/Title</b></td>
+                <td height = "50"><b>Room</b></td>
+            </tr>           
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">12/12/2025</td>
