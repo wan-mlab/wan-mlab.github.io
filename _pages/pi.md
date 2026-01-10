@@ -19,6 +19,8 @@ permalink: /pi/
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Guest Associate Editor</b></a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
+- <b><a href = "https://icibm2026.iaibm.org/organization" target="_blank">Session Chair</a></b> for <b><a href = "https://icibm2025.iaibm.org/index.htm" target="_blank">The 14th International Conference for Intelligent Biology and Medicine (ICIBM2026)</b></b>.
+  
 - <b><a href = "https://icibm2025.iaibm.org/Organization%20Committee.htm" target="_blank">Co-Chair</a></b> for <i>Publicity Committee</i> for <b><a href = "https://icibm2025.iaibm.org/index.htm" target="_blank">The 13th International Conference for Intelligent Biology and Medicine (ICIBM2025)</b></b>.
 
 - <a href = "https://amia.org/education-events/amia-2025-annual-symposium/spc" target="_blank"><b>Scientific Program Committee (SPC) Member</b></a> for <b>AMIA Annual Symposium (2025-present)</b>.
