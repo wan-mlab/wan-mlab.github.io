@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 01-07-2026
-<h>Shibiao is invited to serve as a <b>Session Chair</b> for <b>The 2026 International Conference on Intelligent Biology and Medicine (ICIBM 2026)</b> to be held from Aug. 2-5, 2025 in Buffalo, NY. The link is <a  href="https://icibm2026.iaibm.org/organization">here</a>.</h>
+<h>Shibiao is invited to serve as a <b>Session Chair</b> for <b>The 2026 International Conference on Intelligent Biology and Medicine (ICIBM 2026)</b> to be held from Aug. 2-5, 2026 in Buffalo, NY. The link is <a  href="https://icibm2026.iaibm.org/organization">here</a>.</h>
 <br>
 12-30-2025
 <h>Four abstracts from our lab are accepted in AACR Annual Meeting 2026. Congrats to <b>Min-jeong, Bulidierxin, Nick</b> and <b>Lusheng</b>!</h>
