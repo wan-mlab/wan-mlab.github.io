@@ -41,7 +41,7 @@ permalink: /conference/
                 <td height = "50">IEEE EMBC 2026</td>
                 <td height = "50">Toronto, Canada</td>
                 <td height = "50">July 20-24, 2026</td>
-                <td height = "50">Workshops: TBA; Full Papers: TBA</td>
+                <td height = "50">Full Papers: Jan. 23, 2026</td>
                 <td height = "50"><a href="https://embc.embs.org/2026/welcome/" target="_blank">https://embc.embs.org/2026/welcome/</a></td>
             </tr>          
             <tr>
@@ -60,18 +60,25 @@ permalink: /conference/
             </tr>
             <tr>
                 <td height = "50">ACM BCB 2026</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
-                <td height = "50">unavailable</td>
+                <td height = "50">Rende (Cosenza), Italy</td>
+                <td height = "50">June 30 - July 3</td>
+                <td height = "50">Full Papers: Feb. 27, 2026</td>
+                <td height = "50"><a href="https://acm-bcb.org" target="_blank">https://acm-bcb.org</a></td>
             </tr>
             <tr>
                 <td height = "50">ICIBM 2026</td>
-                <td height = "50">TBA</td>
-                <td height = "50">TBA</td>
-                <td height = "50">Abstracts: TBA</td>
-                <td height = "50"><a href="https://icibm2025.iaibm.org/" target="_blank">https://icibm2025.iaibm.org/</a></td>
+                <td height = "50">Buffalo, NY</td>
+                <td height = "50">August 2-5</td>
+                <td height = "50">Abstracts: Jun. 15, 2026</td>
+                <td height = "50"><a href="https://icibm2026.iaibm.org" target="_blank">https://icibm2026.iaibm.org</a></td>
             </tr>
+            <tr>
+                <td height = "50">AMIA 2026</td>
+                <td height = "50">Dallas, TX</td>
+                <td height = "50">November 7-11</td>
+                <td height = "50">TBA</td>
+                <td height = "50"><a href="https://amia.org/education-events/amia-2026-annual-symposium" target="_blank">https://amia.org/education-events/amia-2026-annual-symposium</a></td>
+            </tr>            
         </tbody>
     </table>
 </body>
