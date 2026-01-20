@@ -45,15 +45,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">02/20/2026</td>
-                <td height = "50">Graph Neural Network</td>
+                <td height = "50">Semi-supervised Learning: Linear Neighborhood Propagation</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Mengtao Sun</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">02/06/2026</td>
-                <td height = "50">Semi-supervised Learning: Linear Neighborhood Propagation</td>
+                <td height = "50">Graph Neural Network</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
