@@ -109,13 +109,13 @@
   highlight: 0
   news2:
   
-- title: "1. Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects by RaMBat"
+- title: "1. RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects"
   image: 
   description: 
   authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
-    url: 
-    display: Molecular Oncology (accepted) (2025)
+    url: https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211
+    display: Molecular Oncology (2025)
   highlight: 0
   news2:
   
