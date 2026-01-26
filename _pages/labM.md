@@ -11,7 +11,6 @@ permalink: /labm/
 # Wan Lab Meeting
 <br>
 #### Lab meetings are held every Friday from 9:00 AM to 10:30 AM (CT). A typical lab meeting includes weekly report and presentation. All lab members gather to engage in meaningful discussions and provide feedback on ongoing projects. 
-
 <br>
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
@@ -28,7 +27,42 @@ permalink: /labm/
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">01/27/2025</td>
+                <td height = "50">03/17/2026</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">03/10/2026</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">03/03/2026</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">02/24/2026</td>
+                <td height = "50">7003</td>
+            </tr>     
+            <tr>
+                <td height = "50">Xingzhi Niu</td>
+                <td height = "50">02/17/2026</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Nick Peterson</td>
+                <td height = "50">02/10/2026</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">02/03/2026</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">01/27/2026</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
@@ -45,7 +79,27 @@ permalink: /labm/
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">01/06/2026</td>
                 <td height = "50">7003</td>
-            </tr>             
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+<br>
+<br>
+<br>
+<html lang="en">
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+    
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
+        <tbody align = "center">
+            <tr style="border-bottom: 2px solid black;">
+                <td height="50" colspan="4"><b>2025 Schedule</b></td>
+            </tr>
+            <tr style="border-bottom: 2px solid black;">
+                <td height = "50"><b>Speaker</b></td>
+                <td height = "50"><b>Date</b></td>
+                <td height = "50"><b>Room</b></td>
+            </tr>            
             <tr>
                 <td height = "50">Nick Peterson Xingzhi Niu</td>
                 <td height = "50">12/30/2025</td>
