@@ -13,7 +13,7 @@ permalink: /pi/
 
 - <b><a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >2000</b>
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Editor-in-Chief</b></a> for Current Proteomics
+- <a href = "https://www.keaipublishing.com/en/journals/current-proteomics/editorial-board/" target="_blank"><b>Editor-in-Chief</b></a> for Current Proteomics
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Associate Editor/Academic Editor/Editorial Board Member</b></a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), Discover Oncology (IF: 2.8), International Journal of Microbiology (IF: 3.4), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
 
