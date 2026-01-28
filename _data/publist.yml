@@ -1,3 +1,13 @@
+- title: "1. RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects"
+  image: 
+  description: 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211
+    display: Molecular Oncology (2026)
+  highlight: 0
+  news2:
+  
 - title: "1. MetaPaCS: A novel meta-learning framework for pancreatic cancer subtype identification"
   image: 
   description:
@@ -108,18 +118,7 @@
     display: 	arXiv arXiv:2504.17162 (2025)
   highlight: 0
   news2:
-  
-- title: "1. RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects"
-  image: 
-  description: 
-  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
-  link:
-    url: https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211
-    display: Molecular Oncology (2026)
-  highlight: 0
-  news2:
-  
-  
+      
 - title: "1. Twelve Practical Recommendations for Developing and Applying Clinical Predictive Models"
   image: 
   description: 
