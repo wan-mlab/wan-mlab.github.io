@@ -31,11 +31,35 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
+            </tr>         
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">05/29/2026</td>
+                <td height = "50">scVelo</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">05/15/2026</td>
+                <td height = "50">Semi-supervised Learning</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">05/01/2026</td>
+                <td height = "50">elastic net</td>
+                <td height = "50">7003</td>
             </tr>
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">04/03/2026</td>
+                <td height = "50">nonnegative spatial factorization (NSF) for spatial genomics​​​​</td>
+                <td height = "50">7003</td>
+            </tr>              
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">03/20/2026</td>
-                <td height = "50">Monocle (single cell trajectory inference)</td>
+                <td height = "50">tSNE</td>
                 <td height = "50">7003</td>
             </tr>                
             <tr>
@@ -45,15 +69,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Mengtao Sun</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">02/20/2026</td>
-                <td height = "50">Semi-supervised Learning: Linear Neighborhood Propagation</td>
+                <td height = "50">Graph Neural Network</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">02/06/2026</td>
-                <td height = "50">Graph Neural Network</td>
+                <td height = "50">Semi-supervised Learning: Linear Neighborhood Propagation</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
