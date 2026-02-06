@@ -47,7 +47,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">05/01/2026</td>
-                <td height = "50">elastic net</td>
+                <td height = "50">Optimal Transport</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
