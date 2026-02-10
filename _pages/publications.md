@@ -55,14 +55,6 @@ permalink: /publications/
 
 
 ## Full List of publications
-### Books
-{% for publi_book in site.data.publist_book %}
-
-  {{ publi_book.title }} <br />
-  <em>{{ publi_book.authors }} </em><br /><a href="{{ publi_book.link.url }}">{{ publi_book.link.display }}</a>
-
-{% endfor %}
-
 ### Journal Articles <font size=3>（*: corresponding author; #: co-first author; underlined names indicate lab members）</font>
 
 {% for publi in site.data.publist %}
@@ -71,6 +63,14 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %} 
+
+### Books
+{% for publi_book in site.data.publist_book %}
+
+  {{ publi_book.title }} <br />
+  <em>{{ publi_book.authors }} </em><br /><a href="{{ publi_book.link.url }}">{{ publi_book.link.display }}</a>
+
+{% endfor %}
 
 ### Conference Abstracts
 {% for publi_abstracts in site.data.publist_Abstracts %}
