@@ -1,10 +1,10 @@
 - title: " The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate transcriptional control of cardiomyocyte differentiation"
-  image: multi-omics.png
-  description: We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
-  authors: T. Sakamoto, K. Batmanov, <b><u>S. Wan</u></b>, Y. Guo, L. Lai, R. B. Vega and D. P. Kelly*.
+  image: advanced.png
+  description: This review comprehensively examines the current landscape and future directions of AI/ML applications in cancer immunotherapy. 
+  authors: <u>X. Wu<sup>#</sup></u>, <u>M. Sun<sup>#</sup></u>, <u>L. Li<sup>#</sup></u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
-    url: https://www.nature.com/articles/s41467-022-29733-3
-    display: Nature Communications 13, 1991 (2022)
+    url: 
+    display: Advanced Science (2026)
   highlight: 1
 
 - title: " SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
@@ -17,6 +17,26 @@
     display: Genome Research 30 (2), 205-213 (2020)
   highlight: 1
   news2: 
+
+- title: " RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects"
+  image: RAMBAT.jpg
+  description: We propose a novel approach called RaMBat for accurate MB subtyping from diverse data sources with severe batch effects. 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211
+    display: Molecular Oncology (2026)
+  highlight: 1
+  news2:
+
+- title: " RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia"
+  image: ranball.png
+  description: RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification.
+  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965
+    display: Advanced Intelligent Systems, e202500965 (2025)
+  highlight: 1
+  news2:  
   
 - title: " FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
@@ -28,34 +48,14 @@
     display: Bioinformatics 33 (5), 749-750 (2017)
   highlight: 1
   news2:
-  
-- title: " Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
-  image: lnp.gif
-  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than SOTA predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features.
-  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
-    display: Journal of Proteome Research 15 (12), 4755-4762 (2016)
-  highlight: 1
-  news2:
-  
-- title: " Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
-  image: mem-men.png
-  description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
-  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung*
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/7229308/
-    display: IEEE/ACM Transactions on Computational Biology and Bioinformatics 13(4), 706–718 (2016)
-  highlight: 1
-  news2:
 
-- title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+- title: "Mapping Structural and Molecular Spatiotemporal Dynamics of Macaque Brain during Development and Aging"
   image: mGOASVM.PNG
-  description: We proposes an efficient multi-label predictor, mGOASVM, for predicting the subcellular localization of multi-location proteins. mGOASVM achieves an actual accuracy of 88.9% and 87.4%, respectively, which are significantly higher than those achieved by the SOTA predictors such as iLoc-Virus and iLoc-Plant.
-  authors: <b><u>S. Wan</u></b>, M.W. Mak* and S.Y. Kung
+  description: We systematically characterized brain structural, cellular and molecular spatiotemporal dynamics from birth to 18 years of macaques integrating multimodal magnetic resonance imaging and single-cell transcriptomics. 
+  authors: Y. Ma<sup>#</sup>, <u>X. Wu</u><sup>#</sup>, R. Zhu<sup>#</sup>, Q. Sun<sup>#</sup>, F. Yang<sup>#</sup>, Z. Wang<sup>#</sup>, S. Dai<sup>#</sup>, X. Qiu, X. Yu, W. Sun, K. Chen, H. Wang, L. Cheng, S. Xie, T. Xu, Y. Chen, W. Ji\*, <b><u>S. Wan*</u></b> and J. Wang\*
   link:
-    url: https://link.springer.com/article/10.1186/1471-2105-13-290
-    display: BMC Bioinformatics 13, 1-16 (2012)
+    url: https://www.researchsquare.com/article/rs-8062839/v1
+    display: Research Square	(2025)
   highlight: 1
   news2:
 
