@@ -1,6 +1,6 @@
 - title: " Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy"
   image: advanced.png
-  description: This review comprehensively examines the current landscape and future directions of AI/ML applications in cancer immunotherapy. 
+  description: This review comprehensively examines the current landscape and future directions of AI/ML applications in cancer immunotherapy from four key areas: (1) patient stratification, (2) biomarker discovery, (3) treatment strategy optimization, and (4) foundation models and LLMs for cancer immunotherapy.
   authors: <u>X. Wu<sup>#</sup></u>, <u>M. Sun<sup>#</sup></u>, <u>L. Li<sup>#</sup></u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: 
@@ -20,7 +20,7 @@
 
 - title: " RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects"
   image: RAMBAT.jpg
-  description: We propose a novel approach called RaMBat for accurate MB subtyping from diverse data sources with severe batch effects. 
+  description: We propose a novel approach called RaMBat for accurate MB subtyping from diverse data sources with severe batch effects. RaMBat could efficiently deal with the batch effects and clearly separate subtypes of MB samples from diverse data sources. 
   authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211
@@ -50,8 +50,8 @@
   news2:
 
 - title: "Mapping Structural and Molecular Spatiotemporal Dynamics of Macaque Brain during Development and Aging"
-  image: mGOASVM.PNG
-  description: We systematically characterized brain structural, cellular and molecular spatiotemporal dynamics from birth to 18 years of macaques integrating multimodal magnetic resonance imaging and single-cell transcriptomics. 
+  image: scrna.png
+  description: We systematically characterized brain structural, cellular and molecular spatiotemporal dynamics from birth to 18 years of macaques integrating multimodal magnetic resonance imaging and single-cell transcriptomics. These findings establish a crucial multiscale framework for understanding primate brain development and aging and shed new light on the divergent evolution between macaques and humans. 
   authors: Y. Ma<sup>#</sup>, <u>X. Wu</u><sup>#</sup>, R. Zhu<sup>#</sup>, Q. Sun<sup>#</sup>, F. Yang<sup>#</sup>, Z. Wang<sup>#</sup>, S. Dai<sup>#</sup>, X. Qiu, X. Yu, W. Sun, K. Chen, H. Wang, L. Cheng, S. Xie, T. Xu, Y. Chen, W. Ji\*, <b><u>S. Wan*</u></b> and J. Wang\*
   link:
     url: https://www.researchsquare.com/article/rs-8062839/v1
