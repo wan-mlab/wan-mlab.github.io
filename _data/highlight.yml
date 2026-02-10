@@ -1,6 +1,6 @@
 - title: " Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy"
   image: advanced.png
-  description: This review comprehensively examines the current landscape and future directions of AI/ML applications in cancer immunotherapy from four key areas: (1) patient stratification, (2) biomarker discovery, (3) treatment strategy optimization, and (4) foundation models and LLMs for cancer immunotherapy.
+  description: This review comprehensively examines the current landscape and future directions of AI/ML applications in cancer immunotherapy from four key areas (1) patient stratification, (2) biomarker discovery, (3) treatment strategy optimization, and (4) foundation models and LLMs for cancer immunotherapy.
   authors: <u>X. Wu<sup>#</sup></u>, <u>M. Sun<sup>#</sup></u>, <u>L. Li<sup>#</sup></u>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: 
