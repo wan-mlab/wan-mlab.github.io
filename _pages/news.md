@@ -7,10 +7,10 @@ permalink: /news/
 
 # News
 02-09-2026
-<h>A review article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted at the journal <b>Advanced Science</b>. Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
+<h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted at the journal <b>Advanced Science</b>. Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
 <br>
 01-22-2026
-<h>An article titled “RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects” is published at the journal <b>Molecular Oncology</b>. The link is <a  href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211">here</a>. Congratulations to <b>Mengtao</b>!</h>
+<h>A journal article titled “RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects” is published at the journal <b>Molecular Oncology</b>. The link is <a  href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211">here</a>. Congratulations to <b>Mengtao</b>!</h>
 <br>
 01-07-2026
 <h>Shibiao is invited to serve as a <b>Session Chair</b> for <b>The 2026 International Conference on Intelligent Biology and Medicine (ICIBM 2026)</b> to be held from Aug. 2-5, 2026 in Buffalo, NY. The link is <a  href="https://icibm2026.iaibm.org/organization">here</a>.</h>
