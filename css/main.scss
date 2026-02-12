@@ -84,6 +84,13 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+#gridid img.pub-thumb {
+  float: left;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  margin-right: 1px;
+}
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
