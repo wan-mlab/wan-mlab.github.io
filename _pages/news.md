@@ -12,6 +12,9 @@ permalink: /news/
 02-17-2026
 <h> Shibiao is awarded the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC.</h>
 <br>
+02-16-2026
+<h> <b>Varshith Gude</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 02-12-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NSF Smart and Connected Health (SCH) AI Panel</b>.</h>
  <br>
