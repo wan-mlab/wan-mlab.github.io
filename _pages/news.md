@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 02-27-2026
-<h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is online at medRxiv. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.24.26347002v1">here</a>.</h>
+<h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.24.26347002v1">here</a>.</h>
 <br>
 02-17-2026
 <h> Shibiao is awarded the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC.</h>
