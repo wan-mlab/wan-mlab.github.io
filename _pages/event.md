@@ -33,7 +33,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Room</b></td>
             </tr> 
             <tr>
-                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">06/12/2026</td>
                 <td height = "50">DeepSeek</td>
                 <td height = "50">7003</td>
@@ -51,9 +51,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Nicholas Peterson</td>
                 <td height = "50">05/01/2026</td>
-                <td height = "50">Optimal Transport</td>
+                <td height = "50">Autoformer</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
@@ -69,9 +69,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr>                
             <tr>
-                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">03/06/2026</td>
-                <td height = "50">Autoformer</td>
+                <td height = "50">Interpretable Multimodal Cancer Prototyping with Whole Slide Images and Incompletely Paired Genomics</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
