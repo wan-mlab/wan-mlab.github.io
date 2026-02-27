@@ -19,7 +19,7 @@ permalink: /news/
 <h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>.Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
 <br>
 02-01-2026
-<h>Congratulations to <b>Nick</b> for passing his comprehensive exam!</h>
+<h>Congratulations to <b>Nick</b> for passing his Comprehensive Exam!</h>
 <br>
 01-22-2026
 <h>A journal article titled “RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects” is published by the journal <b>Molecular Oncology</b>. The link is <a  href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211">here</a>. Congratulations to <b>Mengtao</b>!</h>
@@ -67,7 +67,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as a facilitator for <b>University of Nebraska System Faculty Collaboration Initiative Annual Meeting</b> in the research area of <b>Cancer Prevention, Screening, and Early Intervention</b> to be held on Nov-14-2025.</h>
 <br>
 10-30-2025
-<h>Congratulations to <b>Mengtao</b> for passing the PhD comprehensive exam!</h>
+<h>Congratulations to <b>Mengtao</b> for passing his PhD Comprehensive Exam!</h>
 <br>
 10-30-2025
 <h> An article titled “RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia” is accepted by the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
@@ -241,7 +241,7 @@ permalink: /news/
 <h>Shibiao is awarded the <b>NIH/NIGMS Women's Health Supplemental Funding to the Great Plains CTR</b>! We will focus on <b>developing a multi-modal transfer learning framework to reduce health disparities for women's health</b>. Thanks for the generous support from NIH!</h>
 <br>
 12-20-2024
-<h>Congratulations to <b>Hanyu</b> for passing the comprehensive exam!</h>
+<h>Congratulations to <b>Hanyu</b> for passing her Comprehensive Exam!</h>
 <br>
 12-07-2024
 <h>A collaboration review article “Twelve Practical Recommendations for Developing and Applying Clinical Predictive Models” is published by <b>The Innovation Medicine</b>. The link is <a  href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2024.100105">here</a>.</h>
