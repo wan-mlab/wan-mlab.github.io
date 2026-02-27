@@ -18,6 +18,9 @@ permalink: /news/
 02-09-2026
 <h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>.Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
 <br>
+02-01-2026
+<h>Congratulations to <b>Nick</b> for passing his comprehensive exam!</h>
+<br>
 01-22-2026
 <h>A journal article titled “RaMBat: Accurate identification of medulloblastoma subtypes from diverse data sources with severe batch effects” is published by the journal <b>Molecular Oncology</b>. The link is <a  href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.70211">here</a>. Congratulations to <b>Mengtao</b>!</h>
 <br>
