@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+03-04-2026
+<h> A collaboration research article “Early treatment outcome prediction in metastatic castration-resistant prostate cancer utilizing 3-month tumor growth rate (g-rate) based machine learning model” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.26.26346987v1">here</a>.</h>
+<br>
 02-27-2026
 <h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.24.26347002v1">here</a>.</h>
 <br>
