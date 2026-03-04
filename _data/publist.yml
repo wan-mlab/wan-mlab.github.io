@@ -1,3 +1,13 @@
+- title: "1. Early treatment outcome prediction in metastatic castration-resistant prostate cancer utilizing 3-month tumor growth rate (g-rate) based machine learning model"
+  image: 
+  description:
+  authors: EC. Ugwueke, M. Azzam, M. Zhou, BA. Teply, RC. Bergan, <b><u>S. Wan</u></b>, AT. Fojo, H. Leuva and J. Wang
+  link:
+    url: https://www.medrxiv.org/content/10.64898/2026.02.26.26346987v1
+    display: medRxiv 2026.02.26.26346987 (2026)
+  highlight: 0
+  news2:
+  
 - title: "1. Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control"
   image: 
   description:
