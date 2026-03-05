@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+03-05-2026
+<h> Congratulations to <b>Min-jeong</b> for passing her PhD Comprehensive Exam!</h>
+<br>
 03-04-2026
 <h> A collaboration research article “Early treatment outcome prediction in metastatic castration-resistant prostate cancer utilizing 3-month tumor growth rate (g-rate) based machine learning model” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.26.26346987v1">here</a>.</h>
 <br>
