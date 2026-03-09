@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 03-09-2026
-<h>Shibiao is invited to be a speaker for <b>Center for Heart and Vascular Research (CHVR) Annual Retreat 2026</b> to be held on April 17-18, at Scott Conference Center-UNO Campus.</h>
+<h>Shibiao is invited to be a featured speaker for <b>Center for Heart and Vascular Research (CHVR) Annual Retreat 2026</b> to be held on April 17-18, at Scott Conference Center-UNO Campus.</h>
 <br>
 03-05-2026
 <h> Congratulations to <b>Min-jeong</b> for passing her PhD Comprehensive Exam!</h>
