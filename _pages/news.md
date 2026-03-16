@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 03-16-2026
-<h> Shibiao is awarded the <b> Pediatric Cancer Research Group Grant</b> to establish a molecular foundation model for T-cell acute lymphoblatic leukemia (T-ALL)! Congratulations!</h>
+<h> Shibiao is awarded the <b> Pediatric Cancer Research Group (PCRG) Grant</b> to establish a molecular foundation model for T-cell acute lymphoblatic leukemia (T-ALL)! Congratulations!</h>
 <br>
 03-09-2026
 <h>Shibiao is invited to be a <b>Featured Speaker</b> for <b>Center for Heart and Vascular Research (CHVR) Annual Retreat 2026</b> to be held on April 17-18, at Scott Conference Center-UNO Campus.</h>
