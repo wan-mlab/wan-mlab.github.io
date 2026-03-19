@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+03-18-2026
+<h> A research article preprint “PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.03.16.712161v1">here</a>. Congratulations to <b>Xingzhi</b>!</h>
+<br>
 03-16-2026
 <h> Shibiao is awarded the <b> Pediatric Cancer Research Group (PCRG) Grant</b> to establish a molecular foundation model for T-cell acute lymphoblatic leukemia (T-ALL)! Congratulations!</h>
 <br>
