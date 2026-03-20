@@ -14,6 +14,7 @@ permalink: /news/
 <br>
 03-19-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>French National Research Agency (The Agence Nationale de la Recherche, ANR)</b> in France.</h> 
+<br>
 03-18-2026
 <h> A research article preprint “PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.03.16.712161v1">here</a>. Congratulations to <b>Xingzhi</b>!</h>
 <br>
