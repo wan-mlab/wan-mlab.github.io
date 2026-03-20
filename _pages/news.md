@@ -7,6 +7,9 @@ permalink: /news/
 
 # News 
 03-19-2026
+<h> Shibiao receives the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC at the Award Ceremony and gives a talk on "Leveraging AI for Biomedical Research".</h>
+<br>
+03-19-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>French National Research Agency (The Agence Nationale de la Recherche, ANR)</b> in France.</h>
 <br>  
 03-18-2026
@@ -28,7 +31,7 @@ permalink: /news/
 <h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.02.24.26347002v1">here</a>.</h>
 <br>
 02-17-2026
-<h> Shibiao is awarded the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC.</h>
+<h> Shibiao is notified of being awarded the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC and will receive the award in an Award Ceremony on Mar-19-2026.</h>
 <br>
 02-16-2026
 <h> <b>Varshith Gude</b> joins our lab as a research intern. Welcome aboard!</h>
