@@ -58,7 +58,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">04/03/2026</td>
+                <td height = "50">04/10/2026</td>
                 <td height = "50">nonnegative spatial factorization (NSF) for spatial genomics​​​​</td>
                 <td height = "50">7003</td>
             </tr>              
