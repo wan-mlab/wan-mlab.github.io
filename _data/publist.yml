@@ -51,7 +51,7 @@
 - title: "1. MetaPaCS: A novel meta-learning framework for pancreatic cancer subtype identification"
   image: 
   description:
-  authors: <u>N. Peterson</u>, <u>M. Sun</u>, <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b> 
+  authors: <u>N. Peterson<sup>#</sup></u>, <u>M. Sun<sup>#</sup></u>, <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b> 
   link:
     url: https://www.biorxiv.org/content/10.64898/2025.12.29.696875v1
     display: bioRxiv 2025.12.29.696875 (2025)
