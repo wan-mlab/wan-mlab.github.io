@@ -25,7 +25,7 @@ permalink: /pi/
   
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank"><b>Technical Program Committee (TPC) Member</b></a> for <b>IEEE ICTAI (2016-present)</b> and <b>>20</b> other AI/ML international conferences
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank"><b>Reviewer</b></a> for >70 journals including <b>Nature Biotechnology (IF: 41.7)</b>, <b>Nature Methods (IF: 32.1)</b>, Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank"><b>Reviewer</b></a> for >70 journals including <b>Nature Biotechnology (IF: 41.7)</b>, <b>Nature Methods (IF: 32.1)</b>, <b>Nature Biomedical Engineering (IF: 26.6)</b>, Nature Communications (IF: 15.7), Nature Computational Science (IF: 18.3), Science Advances (IF 12.5), Nucleic Acids Research (IF: 13.1), Advanced Science (IF 14.1), Cancer Research (IF: 16.6), Genome Biology (IF: 9.4), and Genome Medicine (IF: 11.2).
 
 - <b>Top Reviewers (top 1%)</b> in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
