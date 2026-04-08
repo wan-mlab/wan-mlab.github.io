@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 04-07-2026
-<h> Four abstracts from our lab are accepted in AACR Annual Meeting 2026. Congrats to Min-jeong, Bulidierxin, Nick and Lusheng! The link for "DAG-guided kernel learning framework to mitigate racial disparities in breast cancer" is <a  href="https://aacrjournals.org/cancerres/article/86/7_Supplement/4176/779012">here</a>. The link for "Integrated meta-clustering reveals subtype-specific transcriptomic heterogeneity of pediatric low-grade glioma" is <a  href="https://aacrjournals.org/cancerres/article/86/7_Supplement/4177/779011">here</a>. The link for "Exploring high-resolution subtypes for pancreatic ductal adenocarcinoma via a meta-clustering approach" is <a  href="https://aacrjournals.org/cancerres/article/86/7_Supplement/1427/778453">here</a>. The link for "OTTER: Optimal transport-based transcriptomics and genomics representation fusion for T-ALL subtyping" is <a  href="https://aacrjournals.org/cancerres/article/86/7_Supplement/6904/777783">here</a>.</h>
+<h> Four abstracts from our lab are accepted in <b>AACR Annual Meeting 2026</b>. Congrats to <b>Min-jeong</b>, <b>Bulidierxin</b>, <b>Nick</b> and <b>Lusheng</b>!</h>
 <br>
 04-06-2026
 <h> Shibiao is invited to serve as a reviewer for <b>Nature Biomedical Engieenring</b> (IF 26.6).</h>
