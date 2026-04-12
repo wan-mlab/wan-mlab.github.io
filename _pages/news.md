@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 04-07-2026
-<h> Four abstracts from our lab are accepted in <b>AACR Annual Meeting 2026</b>. Congrats to <b>Min-jeong</b>, <b>Bulidierxin</b>, <b>Nick</b> and <b>Lusheng</b>!</h>
+<h> Four AACR abstracts from our lab have been published in <b>Cancer Research</b>. Congrats to <b>Min-jeong</b>, <b>Bulidierxin</b>, <b>Nick</b> and <b>Lusheng</b>!</h>
 <br>
 04-06-2026
 <h> Shibiao is invited to serve as a reviewer for <b>Nature Biomedical Engieenring</b> (IF 26.6).</h>
