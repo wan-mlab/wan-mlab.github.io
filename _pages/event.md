@@ -34,25 +34,25 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr> 
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">06/12/2026</td>
+                <td height = "50">05/29/2026</td>
                 <td height = "50">DeepSeek</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">05/29/2026</td>
+                <td height = "50">05/15/2026</td>
                 <td height = "50">scVelo</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">05/15/2026</td>
+                <td height = "50">05/01/2026</td>
                 <td height = "50">Semi-supervised Learning</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Nicholas Peterson</td>
-                <td height = "50">05/01/2026</td>
+                <td height = "50">04/24/2026</td>
                 <td height = "50">Autoformer</td>
                 <td height = "50">7003</td>
             </tr>
