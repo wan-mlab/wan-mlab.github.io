@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+04-15-2026
+<h> Congratulations to <b>Nick</b> for successfully defending his thesis!</h>
+<br>
 04-07-2026
 <h> Four AACR abstracts from our lab have been published in <b>Cancer Research</b>. Congrats to <b>Min-jeong</b>, <b>Bulidierxin</b>, <b>Nick</b> and <b>Lusheng</b>!</h>
 <br>
