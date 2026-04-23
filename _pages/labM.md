@@ -27,42 +27,37 @@ permalink: /labm/
             </tr>        
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">06/16/2026</td>
+                <td height = "50">06/02/2026</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">06/09/2026</td>
+                <td height = "50">05/26/2026</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">06/02/2026</td>
+                <td height = "50">05/19/2026</td>
                 <td height = "50">7003</td>
             </tr>     
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">05/26/2026</td>
-                <td height = "50">7003</td>
-            </tr>             
-            <tr>
-                <td height = "50">Nick Peterson</td>
-                <td height = "50">05/19/2026</td>
-                <td height = "50">7003</td>
-            </tr>            
-            <tr>
-                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">05/12/2026</td>
                 <td height = "50">7003</td>
-            </tr>            
+            </tr>                         
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">05/05/2026</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">04/28/2026</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">04/29/2026</td>
                 <td height = "50">7003</td>
             </tr>     
             <tr>
