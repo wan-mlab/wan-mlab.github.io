@@ -31,11 +31,17 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr> 
+            </tr>           
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">05/29/2026</td>
+                <td height = "50">06/12/2026</td>
                 <td height = "50">DeepSeek</td>
+                <td height = "50">7003</td>
+            </tr>  
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">05/29/2026</td>
+                <td height = "50">Local Interpretable Model-Agnostic Explanations</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
