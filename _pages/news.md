@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+05-01-2026
+<h> Shibiao is elevated to be an <b>ACM Senior Member</b>.</h>
+<br>
 04-15-2026
 <h> Congratulations to <b>Nick</b> for successfully defending his thesis!</h>
 <br>
