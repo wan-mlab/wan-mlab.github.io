@@ -10,8 +10,8 @@ permalink: /news/
 <h> Shibiao is elevated to be an <b>ACM Senior Member</b>.</h>
 <br>
 04-18-2026
-<h>As a <b>Featured Speaker</b>, Shibiao gave a talk on "Developing AI Models for Biomedical Research" for <b>Center for Heart and Vascular Research (CHVR) Annual Retreat 2026</b>. The link is <a  href="https://www.canva.com/design/DAGqDnfMbKI/QZWTLFfuiDrZqKxRnUZK-A/view?utm_content=DAGqDnfMbKI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b21b3ae3e">here</a></h>
-<br>    
+<h>As a <b>Featured Speaker</b>, Shibiao gave a talk on "Developing AI Models for Biomedical Research" for <b>Center for Heart and Vascular Research (CHVR) Annual Retreat 2026</b>. The link is <a  href="https://www.canva.com/design/DAGqDnfMbKI/QZWTLFfuiDrZqKxRnUZK-A/view?utm_content=DAGqDnfMbKI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b21b3ae3e">here</a>.</h>
+<br>
 04-15-2026
 <h> Congratulations to <b>Nick</b> for successfully defending his thesis!</h>
 <br>
