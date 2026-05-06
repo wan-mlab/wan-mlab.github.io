@@ -61,7 +61,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NSF Smart and Connected Health (SCH) AI Panel</b>.</h>
  <br>
 02-09-2026
-<h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>.Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
+<h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>. Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
 <br>
 02-01-2026
 <h>Congratulations to <b>Nick</b> for passing his Comprehensive Exam!</h>
