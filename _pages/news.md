@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+05-5-2026
+'<h> Our long abstract entitled “A Palma Ratio–Driven Graph-Fusion Approach for Detecting Ultra-Rare Cell Types in scRNA-seq Data” has been accepted as an oral presentation in the 34th International Conference on Intelligent Systems on Molecular Biology (ISMB 2026) in Washington, DC. Congratulations to <b>Xingzhi</b>!</h>'
+<br>
 05-01-2026
 <h> Shibiao is elevated to be an <b>ACM Senior Member</b>.</h>
 <br>
