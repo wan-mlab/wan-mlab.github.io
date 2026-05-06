@@ -71,7 +71,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">05/08/2026</td>
-                <td height = "50">Semi-supervised Learning</td>
+                <td height = "50">TabLLM</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
