@@ -1,10 +1,20 @@
+- title: "1. PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data"
+  image: 
+  description: 
+  authors: <u>X. Niu</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: https://aacrjournals.org/cancerres/article/86/7_Supplement/1427/778453
+    display: <b>Cancer Research</b>, 2026, vol. 86 (7_Supplement), 1427.
+  highlight: 0
+  news2:
+
 - title: "1. Exploring high-resolution subtypes for pancreatic ductal adenocarcinoma via a meta-clustering approach"
   image: 
   description: 
   authors: <u>N. Peterson</u>, J. Wang and <b><u>S. Wan*</u></b>.
   link:
     url: https://aacrjournals.org/cancerres/article/86/7_Supplement/1427/778453
-    display: <b>Cancer Research</b>, 2026, vol. 86 (7_Supplement), 1427.
+    display: <b>Intelligent Systems for Molecular Biology (ISMB)</b>, 2026.
   highlight: 0
   news2:
   
