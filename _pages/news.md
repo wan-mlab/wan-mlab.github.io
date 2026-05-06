@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+05-6-2026
+<h><b>Yu Fang</b> joins our lab as a volunteer. Welcome aboard!</h>
+<br>
 05-5-2026
 <h> Our long abstract entitled “A Palma Ratio–Driven Graph-Fusion Approach for Detecting Ultra-Rare Cell Types in scRNA-seq Data” has been accepted as an <b>oral presentation</b> in the <b>34th International Conference on Intelligent Systems for Molecular Biology (ISMB 2026)</b> in Washington, DC. Congratulations to <b>Xingzhi</b>!</h>
 <br>
