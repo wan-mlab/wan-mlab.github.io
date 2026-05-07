@@ -7,15 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-
-- name: Yu Fang
-  photo: Yu_Fang.png
-  info: Intern Student
-  email: yf23c@fsu.edu
-  number_educ: 3
-  education1: Ph.D. Biochemistry and Molecular Biology, Florida State University, Tallahassee, USA, 2028
-  education2: M.S. Biochemistry and Molecular Biology, University of Florida, Gainesville, USA, 2023
-  education3: B.S. Bioinformatics, Southern Medical University, Guangzhou, China, 2020
   
 - name: Cece Zhang
   photo: Cece.png
@@ -91,3 +82,12 @@
   email: N/A
   number_educ: 1
   education1: 11th Grade, Jordan High School, Fulshear, Texas, USA
+
+- name: Yu Fang
+  photo: Yu_Fang_.png
+  info: Intern Student
+  email: yf23c@fsu.edu
+  number_educ: 3
+  education1: Ph.D. Biochemistry and Molecular Biology, Florida State University, Tallahassee, USA, 2028
+  education2: M.S. Biochemistry and Molecular Biology, University of Florida, Gainesville, USA, 2023
+  education3: B.S. Bioinformatics, Southern Medical University, Guangzhou, China, 2020
