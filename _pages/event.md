@@ -59,7 +59,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">05/29/2026</td>
-                <td height = "50">DeepSeek</td>
+                <td height = "50">CAMEL: An ECG Language Model for Forecasting Cardiac Events</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
