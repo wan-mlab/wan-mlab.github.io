@@ -21,6 +21,14 @@ permalink: /achievements/
                 <td height = "50" style="text-align: center; width: 85%;"><b>Achievements</b></td>
             </tr>
             <tr>
+              <td height = "50" style="text-align: center;">05-01-2026</td>
+              <td height = "50" >   <b>Bingyi Wang</b> is admitted to <b>Massachusetts Institute of Technology (MIT)</b> as an undergraduate student</td>
+            </tr>
+            <tr>
+              <td height = "50" style="text-align: center;">03-22-2026</td>
+              <td height = "50" >   <b>The team of Bingyi Wang, Maxim Karpuk, and Jay Athipatla</b> are awarded the <b>Third Place Award</b> for <b>Greater Nebraska Science & Engineering Fair (GNSEF)</b></td>
+            </tr>
+            <tr>
               <td height = "50" style="text-align: center;">10-12-2025</td>
               <td height = "50" >   <b>Eswar</b> is awarded the <b>Best Poster Presentation</b> from the Annual Meeting of Midlands Society of Physiological Sciences</td>
             </tr> 
@@ -43,6 +51,10 @@ permalink: /achievements/
             <tr>
               <td height = "50" style="text-align: center;">03-28-2024</td>
               <td height = "50" >   <b>Hanyu Xiao</b> has been selected as a recipient of <b>the 2024 Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</b></td>
+            </tr>
+            <tr>
+              <td height = "50" style="text-align: center;">09-05-2023</td>
+              <td height = "50" >   <b>Junxi Feng</b> is admitted to <b>Harvard University</b> as a graduate student</td>
             </tr>
       </tbody>
     </table>
