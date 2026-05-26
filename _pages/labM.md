@@ -26,22 +26,22 @@ permalink: /labm/
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">07/07/2026</td>
+                <td height = "50">7003</td>
+            </tr> 
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">06/30/2026</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">06/30/2026</td>
+                <td height = "50">06/23/2026</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">06/23/2026</td>
-                <td height = "50">7003</td>
-            </tr>             
-            <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">06/16/2026</td>
                 <td height = "50">7003</td>
             </tr>             
