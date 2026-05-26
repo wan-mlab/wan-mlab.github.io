@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+05-23-2026
+<h> A research article preprint “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.05.20.726698v1">here</a>. Congratulations to <b>Xinchao</b>!</h>
+<br>
 05-6-2026
 <h><b>Yu Fang</b> joins our lab as a volunteer. Welcome aboard!</h>
 <br>
