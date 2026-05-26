@@ -1,3 +1,13 @@
+- title: "1. Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME"
+  image: 
+  description:
+  authors: <u>X. Wu</u>, X. Wang, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.05.20.726698v1
+    display: bioRxiv 2026.05.20.726698 (2026)
+  highlight: 0
+  news2:
+  
 - title: "1. PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data"
   image: 
   description:
