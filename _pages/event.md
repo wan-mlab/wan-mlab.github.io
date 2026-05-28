@@ -37,31 +37,31 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">07/24/2026</td>
                 <td height = "50">NOTEARS</td>
                 <td height = "50">7003</td>
-            </tr>             
-            <tr>
-                <td height = "50">Mengtao Sun</td>
-                <td height = "50">07/10/2026</td>
-                <td height = "50">Genetic algorithm</td>
-                <td height = "50">7003</td>
             </tr>              
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">07/10/2026</td>
+                <td height = "50">CAMEL: An ECG Language Model for Forecasting Cardiac Events</td>
+                <td height = "50">7003</td>
+            </tr>             
             <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">06/26/2026</td>
                 <td height = "50">scVelo</td>
                 <td height = "50">7003</td>
-            </tr>               
+            </tr> 
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">06/19/2026</td>
+                <td height = "50">Genetic algorithm</td>
+                <td height = "50">7003</td>
+            </tr>             
             <tr>
                 <td height = "50">Lusheng</td>
                 <td height = "50">06/12/2026</td>
                 <td height = "50">Local Interpretable Model-Agnostic Explanations</td>
                 <td height = "50">7003</td>
-            </tr>  
-            <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">05/29/2026</td>
-                <td height = "50">CAMEL: An ECG Language Model for Forecasting Cardiac Events</td>
-                <td height = "50">7003</td>
-            </tr>            
+            </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">05/15/2026</td>
