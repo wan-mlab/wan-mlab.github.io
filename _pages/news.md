@@ -6,15 +6,16 @@ permalink: /news/
 ---
 
 # News 
-05-23-2026
+05-26-2026
 <h> A research article preprint “Molecular Characterization of T-Lineage Acute Lymphoblastic Leukemia by an Optimal-Transport Based Multi-Omics Integration Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.05.22.727257v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
 <br>
+05-23-2026
 <h> A research article preprint “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.05.20.726698v1">here</a>. Congratulations to <b>Xinchao</b>!</h>
 <br>
-05-6-2026
+05-06-2026
 <h><b>Yu Fang</b> joins our lab as a volunteer. Welcome aboard!</h>
 <br>
-05-5-2026
+05-05-2026
 <h> Our long abstract entitled “A Palma Ratio–Driven Graph-Fusion Approach for Detecting Ultra-Rare Cell Types in scRNA-seq Data” has been accepted as an <b>oral presentation</b> in the <b>34th International Conference on Intelligent Systems for Molecular Biology (ISMB 2026)</b> in Washington, DC. Congratulations to <b>Xingzhi</b>!</h>
 <br>
 05-01-2026
