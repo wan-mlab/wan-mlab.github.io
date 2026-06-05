@@ -6,6 +6,8 @@ permalink: /news/
 ---
 
 # News 
+<h> <b>Arya Mamidyala</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 05-28-2026
 <h> Shibiao has been selected as the Fred & Pamela Buffett Cancer Center’s <b>Nominee for the 2026 V Foundation V Scholar Cancer Research Award</b>.</h>
 <br>
