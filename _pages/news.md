@@ -8,6 +8,7 @@ permalink: /news/
 # News 
 05-28-2026
 <h> Shibiao has been selected as the Fred & Pamela Buffett Cancer Center’s <b>Nominee for the 2026 V Foundation V Scholar Cancer Research Award</b>.</h>
+<br>
 05-26-2026
 <h> A research article preprint “Molecular Characterization of T-Lineage Acute Lymphoblastic Leukemia by an Optimal-Transport Based Multi-Omics Integration Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.05.22.727257v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
 <br>
