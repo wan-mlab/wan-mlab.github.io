@@ -12,8 +12,11 @@
 
 - date: "05-06-2026"
   headline: '<h> <b>Yu Fang</b> joins our lab as a volunteer. Welcome aboard!</h>'
+  
+- date: "05-15-2026"
+  headline: 'Our abstract entitled “Predicting In-Hospital Mortality in Acute Myocardial Infarction via a Novel Meta-Learning Approach” has been accepted as for presentation in the <b>American Medical Informatics Association (AMIA) 2026 Annual Symposium</b> in Dallas, TX. Congratulations to <b>Bulidierxin</b>!</h>'
 
-- date: "05-5-2026"
+- date: "05-05-2026"
   headline: '<h> Our long abstract entitled “A Palma Ratio–Driven Graph-Fusion Approach for Detecting Ultra-Rare Cell Types in scRNA-seq Data” has been accepted as an <b>oral presentation</b> in the <b>34th International Conference on Intelligent Systems for Molecular Biology (ISMB 2026)</b> in Washington, DC. Congratulations to <b>Xingzhi</b>!</h>'
 
 - date: "05-01-2026"
