@@ -8,7 +8,7 @@ permalink: /news/
 # News 
 06-05-2026
 <h> Another <b>Nebraska Research Initiative (NRI) Collaborative Grant</b> is awarded to Shibiao! Shibiao is the PI, and the co-PIs include Dr. Jieqiong Wang (UNMC) and Dr Guoqing Lu (UNO). Congratulations!</h>
-<br>  
+
 06-04-2026
 <h> <b>Arya Mamidyala</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
