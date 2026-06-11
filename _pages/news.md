@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+06-10-2026
+<h> <b>Rustom Dubash</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 06-08-2026
 <h> <b>Sai Nellutla</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
