@@ -33,4 +33,4 @@ The master's degree program can be found here (https://www.unmc.edu/gradstudies/
 I might establish other positions like research assistant or bioinformatics analyst, depending on the quality of applicants. These positions might also serve as a transition which eventually trains the applicants into successful candidates for PhD students or postdocs. Please discuss with me about the details.
 
 ### Intern Students
-Our lab has multiple projects which are good for intern students from various backgrounds, no matter you are an **undergraduate student** or a **high school student**, no matter on-site or remote. Please send an inquiry email for details.
+Our lab has multiple projects which are good for intern students from various backgrounds, no matter you are a **graduate student**, an **undergraduate student** or a **high school student**, no matter on-site or remote. Please send an inquiry email for details.
