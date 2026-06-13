@@ -133,7 +133,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the Natural Sciences and Engineering Research Council of Canada (NSERC)</b>.</h>
 <br>
 11-19-2025
-<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) in Biodata Management and Computational Modeling</b>.</h>
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Biodata Management and Computational Modeling</b>.</h>
 <br>
 11-14-2025
 <h> Shibiao is invited to serve as a reviewer for <b>ACM Computing Surveys</b> (<b>IF 28</b>; <b>ranked 1/147</b> in Computer Science Theory & Methods).</h>
@@ -232,7 +232,7 @@ permalink: /news/
 <h> A research article preprint “AttentionAML: An attention-based deep learning framework for accurate molecular categorization of acute myeloid leukemia” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
 <br>
 05-13-2025
-<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) in the Health Services and Systems Review Branch on Clinical Informatics, Data Management, Digital Health, and AI/ML</b>.</h>
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on the Health Services and Systems Review Branch on Clinical Informatics, Data Management, Digital Health, and AI/ML</b>.</h>
 <br>
 05-12-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management (MCST14)</b>.</h>
@@ -307,7 +307,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Search Committee Member</b> for <b>Data Science Faculty</b> of <b>College of Allied Health Professions</b> at UNMC.</h>
 <br>
 01-13-2025
-<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel (SEP) in the Health Services and Systems Review Branch (HSS) on Clinical Data Management, Clinical Informatics, and Digital Health</b>.</h>
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel (SEP) on the Health Services and Systems Review Branch (HSS) on Clinical Data Management, Clinical Informatics, and Digital Health</b>.</h>
 <br>
 01-06-2025
 <h>Five abstracts from our lab are accepted in AACR Annual Meeting 2025. Congrats to <b>Mengtao, Lusheng, Nick, Xinchao and Min-jeong</b>!</h>
