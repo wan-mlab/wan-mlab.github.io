@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+06-12-2026
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel on Computational Modeling of Hormone Homestasis</b>. </h>
+<br>  
 06-10-2026
 <h> <b>Rustom Dubash</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
