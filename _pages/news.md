@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+06-23-2026
+<h>Shibiao is invited to give a lightning talk for <b>National Cancer Institute (NCI) Childhood Cancer Data Initiative (CCDI) Symposium</b> to be held on September 17-18, at Rockville, MD.</h>
+<br>
 06-12-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel on Computational Modeling of Hormone Homestasis</b>. </h>
 <br>
