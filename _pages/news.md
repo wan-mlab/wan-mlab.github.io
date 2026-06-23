@@ -28,6 +28,9 @@ permalink: /news/
 <h> A research article preprint “Molecular Characterization of T-Lineage Acute Lymphoblastic Leukemia by an Optimal-Transport Based Multi-Omics Integration Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.05.22.727257v1">here</a>. Congratulations to <b>Lusheng</b>!</h>
 <br>
 05-26-2026
+'<h> Shibiao is awarded the <b>2026 Springer Nature Editor of Distinction Award</b> for <i>BMC Bioinformatics</i> by Springer Nature.</h>'
+<br>  
+05-26-2026
 <h> As a co-PI, Shibiao is awarded the <b>Nebraska Research Initiative (NRI) Collaborative Grant</b>! The PI is Dr. Dobromir Dotov from UNO, and the co-PIs include Shibiao, Dr. Jonathan Clayton (UNO), and Dr. Xin Zhong (UNO). Congratulations!</h>
 <br>
 05-23-2026
