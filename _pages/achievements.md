@@ -21,6 +21,10 @@ permalink: /achievements/
                 <td height = "50" style="text-align: center; width: 85%;"><b>Achievements</b></td>
             </tr>
             <tr>
+              <td height = "50" style="text-align: center;">05-01-2026</td>
+              <td height = "50" >   <b>Xinchao</b> is awarded the <b>UNMC Graduate Felloship 2026</b></td>
+            </tr>
+            <tr>
               <td height = "50" style="text-align: center;">06-16-2025</td>
               <td height = "50" >   <b>Nick Peterson</b> has officially graduated from UNMC</td>
             </tr> 
