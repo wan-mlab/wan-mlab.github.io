@@ -9,7 +9,6 @@ permalink: /news/
 06-25-2026
 <h>Congratulations to <b>Xinchao</b> for being awarded the UNMC graduate fellowship.</h>
 <br>
-
 06-23-2026
 <h>Shibiao is invited to give a lightning talk for <b>National Cancer Institute (NCI) Childhood Cancer Data Initiative (CCDI) Symposium</b> to be held on September 17-18, at Rockville, MD.</h>
 <br>
