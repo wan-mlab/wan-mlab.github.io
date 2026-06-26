@@ -39,15 +39,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">7003</td>
             </tr> 
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
                 <td height = "50">07/24/2026</td>
-                <td height = "50">TBA</td>
+                <td height = "50">CAMEL: An ECG Language Model for Forecasting Cardiac Events</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">07/10/2026</td>
-                <td height = "50">CAMEL: An ECG Language Model for Forecasting Cardiac Events</td>
+                <td height = "50">CANVAS</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
