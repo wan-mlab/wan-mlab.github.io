@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+06-26-2026
+<h> <b>Suryansh Thakur</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 06-25-2026
 <h>Congratulations to <b>Xinchao</b> for being awarded the UNMC graduate fellowship.</h>
 <br>
