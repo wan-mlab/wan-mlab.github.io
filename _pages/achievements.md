@@ -34,7 +34,7 @@ permalink: /achievements/
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">03-22-2026</td>
-              <td height = "50" >   The team of <b>Bingyi Wang, Maxim Karpuk, and Jay Athipatla</b> are awarded the <b>Third Place Award</b> for <b>Greater Nebraska Science & Engineering Fair (GNSEF).</b></td>
+              <td height = "50" >   The team of <b>Bingyi Wang, Maxim Karpuk, and Jay Athipatla</b> are awarded the <b>Third Place Award</b> for <b>Greater Nebraska Science & Engineering Fair (GNSEF)</b>.</td>
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">10-12-2025</td>
