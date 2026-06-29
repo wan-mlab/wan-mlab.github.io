@@ -42,11 +42,11 @@ permalink: /achievements/
             </tr> 
             <tr>
               <td height = "50" style="text-align: center;">06-30-2025</td>
-              <td height = "50" >   <b>Bulidierxin Tuerhanbayi</b> is awarded <b>the Ray H. Frohn Incoming Graduate Student Scholarship</b.></td>
+              <td height = "50" >   <b>Bulidierxin Tuerhanbayi</b> is awarded <b>the Ray H. Frohn Incoming Graduate Student Scholarship</b>.</td>
             </tr> 
             <tr>
               <td height = "50" style="text-align: center;">06-26-2025</td>
-              <td height = "50" >   <b>Mengtao Sun</b> is awarded <b>the UNMC Graduate Fellowship 2025.</b></td>
+              <td height = "50" >   <b>Mengtao Sun</b> is awarded <b>the UNMC Graduate Fellowship 2025</b>.</td>
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">05-09-2025</td>
