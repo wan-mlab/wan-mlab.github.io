@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+07-08-2026
+<h> <b>Shaurya Singamsetty</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 06-26-2026
 <h> <b>Suryansh Thakur</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
