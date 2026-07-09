@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+07-09-2026
+<h> <b>Halime Efnan Kumbullu</b> joins our lab as a visiting scholar. Welcome aboard!</h>
+<br>
 07-08-2026
 <h> <b>Shaurya Singamsetty</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
