@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 07-17-2026
-<h> Shibiao is awarded a <b>Focused EPSCoR (Established Program to Stimulate Competitive Research) Collaboration (FEC) Grant</b> by NSF to develop foundation models for crop lodging prediction. It will be a four-year grant with a start date as Aug-01-2026. Congratulations!</h>
+<h> Shibiao is awarded an <b>NSF Focused EPSCoR (Established Program to Stimulate Competitive Research) Collaboration (FEC) Grant</b> to develop foundation models for crop lodging prediction. It will be a four-year grant with a start date as Aug-01-2026. Congratulations!</h>
 <br>
 07-09-2026
 <h> <b>Halime Efnan Kumbullu</b> joins our lab as a visiting scholar. Welcome aboard!</h>
