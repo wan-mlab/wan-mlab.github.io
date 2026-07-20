@@ -8,6 +8,7 @@ permalink: /news/
 # News 
 07-19-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the	Defense Health Agency (DHA) Congressionally Directed Medical Research Programs (CDMRP) Pathobiology-3 (PB-3) Peer Review Panel of the Breast Cancer Research Program (BCRP)</b>. </h>
+<br>
 07-17-2026
 <h> Shibiao is awarded an <b>NSF Focused EPSCoR (Established Program to Stimulate Competitive Research) Collaboration (FEC) Grant</b> to develop foundation models for crop lodging prediction. It will be a four-year grant with a start date as Aug-01-2026. Congratulations!</h>
 <br>
