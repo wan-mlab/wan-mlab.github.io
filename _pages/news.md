@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+07-21-2026
+<h>Shibiao is invited to serve as a member for the <b>Developing Experts in Computation, Omics and Data Exploration (DECODE) Program Steering Committee</b> at UNMC.</h>
+<br>
 07-19-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the	Defense Health Agency (DHA) Congressionally Directed Medical Research Programs (CDMRP) Pathobiology-3 (PB-3) Peer Review Panel of the Breast Cancer Research Program (BCRP)</b>. </h>
 <br>
