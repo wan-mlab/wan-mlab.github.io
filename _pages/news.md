@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+07-24-2026
+<h> Shibiao is invited to give a seminar talk for <b>Department of Pathology, Microbiology, and Immunology at UNMC</b> on Sep-09-2026. </h>
+<br>
 07-21-2026
 <h>Shibiao is invited to serve as a member for the <b>Developing Experts in Computation, Omics and Data Exploration (DECODE) Program Steering Committee</b> at UNMC.</h>
 <br>
