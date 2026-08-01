@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 07-30-2026 
-<h> A journal article titled “WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis” is accepted by the <b>Journal of Alzheimer's Disease</b>. Congratulations to <b>Hanyu</b>! </h>
+<h> A research article titled “WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis” is accepted by the <b>Journal of Alzheimer's Disease</b>. Congratulations to <b>Hanyu</b>! </h>
 <br>
 07-24-2026
 <h> Shibiao is invited to give a seminar talk for <b>Department of Pathology, Microbiology, and Immunology at UNMC</b> on Sep-09-2026. </h>
