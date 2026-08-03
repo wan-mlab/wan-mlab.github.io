@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 08-02-2026 
-<h> A research article titled "MetaAMI: A Novel Meta-Learning Approach for Predicting In-Hospital Mortality in Acute Myocardial Infarction” is online at bioRxiv. The link is here. Congratulations to <b>Bulidierxin</b>!</h>
+<h> A research article titled "MetaAMI: A Novel Meta-Learning Approach for Predicting In-Hospital Mortality in Acute Myocardial Infarction” is online at bioRxiv. Congratulations to <b>Bulidierxin</b>!</h>
 <br>
 07-30-2026 
 <h> A research article titled “WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis” is accepted by the <b>Journal of Alzheimer's Disease</b>. Congratulations to <b>Hanyu</b>! </h>
