@@ -47,7 +47,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">08/07/2026</td>
-                <td height = "50">NOTEARS</td>
+                <td height = "50">DAG-GNN</td>
                 <td height = "50">7003</td>
             </tr> 
             <tr>
