@@ -7,6 +7,9 @@ permalink: /news/
 
 # News 
 08-11-2026
+<h>Shibiao is invited to give a seminar talk for <b>Department of Biochemistry and Molecular Biology at UNMC</b> on Oct-12-2026.</h>
+<br>
+08-11-2026
 <h> Congratulations to <b>Lusheng</b> for passing his PhD Comprehensive Exam!</h>
 <br>
 08-07-2026
