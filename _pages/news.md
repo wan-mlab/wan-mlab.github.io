@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-11-2026
+<h> Congratulations to <b>Lusheng</b> for passing his PhD Comprehensive Exam!</h>
+<br>
 08-07-2026
 <h> Our team is awarded an <b>NIH/NIAAA R21 Grant</b> to develop deep learning models for BNST (the bed nucleus of the stria terminalis) segmentation and investigate the role of the BNST in adolescent alcohol use. Congratulations to the PI Dr. Jieqiong Wang, MPIs Dr. Jennifer Blackford and Shibiao!</h>
 <br>
