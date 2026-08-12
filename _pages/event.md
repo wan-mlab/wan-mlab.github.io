@@ -31,7 +31,13 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>           
+            </tr>
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">09/18/2026</td>
+                <td height = "50">MIND: multimodal integration with neighbourhood-aware distributions</td>
+                <td height = "50">7003</td>
+            </tr>            
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">09/04/2026</td>
