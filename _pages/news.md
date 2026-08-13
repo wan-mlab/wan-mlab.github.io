@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 08-12-2026
-<h> Shibiao is elevated to be an <b>Associate Editor</b> for <b>Briefings in Functional Genomics</b> from an Editorial Board Member.</h>
+<h> Shibiao is elevated to be an <b>Associate Editor</b> for <b>Briefings in Functional Genomics</b> from the role of an Editorial Board Member.</h>
 <br>
 08-11-2026
 <h>Shibiao is invited to give a seminar talk for <b>Department of Biochemistry and Molecular Biology at UNMC</b> on Oct-12-2026.</h>
