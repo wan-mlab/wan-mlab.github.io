@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 08-15-2026
-<h>A research article preprint “SAMP V2: A Novel Stacking Ensemble Learning Model for Antimicrobial Peptides Identification Based on Augmented Split Amino Acid Composition with Biochemical-sequence-order Information” is online at <b>bioRxiv</b>. Congratulations to <b>Mengtao</b>!</h>
+<h>A research article preprint “SAMP V2: A Novel Stacking Ensemble Learning Model for Antimicrobial Peptides Identification Based on Augmented Split Amino Acid Composition with Biochemical-sequence-order Information” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.12.744552v1">here</a>. Congratulations to <b>Mengtao</b>!</h>
 <br>
 08-12-2026
 <h> Shibiao is elevated to be an <b>Associate Editor</b> for <b>Briefings in Functional Genomics</b> from the role of an Editorial Board Member.</h>
