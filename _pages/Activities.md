@@ -21,7 +21,7 @@ permalink: /activity/
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/Image_08162026.jpeg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/Image_081620262.jpeg" alt="Slide 2" />
         </div>
     </div>
