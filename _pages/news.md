@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-20-2026
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management</b>.</h>
+  
 08-15-2026
 <h>A research article preprint “SAMP V2: A Novel Stacking Ensemble Learning Model for Antimicrobial Peptides Identification Based on Augmented Split Amino Acid Composition with Biochemical-sequence-order Information” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.12.744552v1">here</a>. Congratulations to <b>Mengtao</b>!</h>
 <br>
