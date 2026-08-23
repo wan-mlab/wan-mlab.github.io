@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-23-2026
+<h> A collaboration research article “A Hydrogel Ionic Circuit Electrical Stimulation System to Restore Denervated Muscle Following Long-Gap Peripheral Nerve Injury” is accepted by <b>Bioactive Materials</b> (IF 23.6), for which <b>Mengtao</b> is a co-author. Congratulations!</h>
+<br>
 08-20-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management</b>.</h>
 <br>
