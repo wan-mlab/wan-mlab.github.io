@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-25-2026
+<h>Congratulations to <b>Mengtao</b> for being awarded the "Outstanding Graduate Student Award" by department GCBA as well as the BISB and MGCB PhD programs at UNMC.</h>
+<br>
 08-23-2026
 <h> A collaboration research article “A Hydrogel Ionic Circuit Electrical Stimulation System to Restore Denervated Muscle Following Long-Gap Peripheral Nerve Injury” is accepted by <b>Bioactive Materials</b> (IF 23.6), for which <b>Mengtao</b> is a co-author. Congratulations!</h>
 <br>
