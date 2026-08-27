@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-26-2026
+<h> Shibiao is awarded an <b>NIH/NCI R03 Grant</b> to develop a multi-modal AI framework to characterize pediatric T-cell acute lymphoblastic leukemia (T-ALL) based on Gabriella Miller Kids First Pediatric Research Data. Congratulations!</h>
+<br>
 08-25-2026
 <h>Congratulations to <b>Mengtao</b> for being awarded the "Outstanding Graduate Student Award" by department GCBA as well as the BISB and MGCB PhD programs at UNMC.</h>
 <br>
