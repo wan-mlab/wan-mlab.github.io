@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+08-28-2026
+<h> <b>Lev Tsarin</b> joins our lab for rotation in UNMC. Welcome aboard!</h>
+<br>
 08-26-2026
 <h> Shibiao is awarded a two-year <b>NIH/NCI R03 Grant (total cost: $307k)</b> to develop a multi-modal AI framework to characterize pediatric T-cell acute lymphoblastic leukemia (T-ALL) based on Gabriella Miller Kids First Pediatric Research Data. Congratulations!</h>
 <br>
