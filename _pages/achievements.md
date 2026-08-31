@@ -22,7 +22,7 @@ permalink: /achievements/
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">08-25-2026</td>
-              <td height = "50" >   <b>Mengtao</b> is awarded the <b>"Outstanding Graduate Student Award" by GCBA department</b>.</td>
+              <td height = "50" >   <b>Mengtao</b> is awarded the <b>"Outstanding Graduate Student Award" by the GCBA Department</b>.</td>
             </tr>
             <tr>
               <td height = "50" style="text-align: center;">06-25-2026</td>
