@@ -31,17 +31,53 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>
+            </tr>                     
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">12/11/2026</td>
+                <td height = "50">transfer learning</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">11/27/2026</td>
+                <td height = "50">Semi-supervised Learning</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">11/13/2026</td>
+                <td height = "50">AlphaGenome</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">10/30/2026</td>
+                <td height = "50">Parameter-Efficient Fine-Tuning</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">10/16/2026</td>
+                <td height = "50">NOTEARS</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">10/02/2026</td>
+                <td height = "50">Back propagation</td>
+                <td height = "50">7003</td>
+            </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">09/18/2026</td>
-                <td height = "50">MIND: multimodal integration with neighbourhood-aware distributions</td>
+                <td height = "50">focal loss</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">09/04/2026</td>
-                <td height = "50">TBA</td>
+                <td height = "50">Ultrafast and reference-free sequence discovery in single-cell data</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
