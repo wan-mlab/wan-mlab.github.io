@@ -13,13 +13,13 @@ permalink: /pi/
 
 - <b><a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >2300</b>
 
-- <a href = "https://www.keaipublishing.com/en/journals/current-proteomics/editorial-board/" target="_blank"><b>Editor-in-Chief</b></a> for Current Proteomics
+- <a href = "https://www.keaipublishing.com/en/journals/current-proteomics/editorial-board/" target="_blank"><b>Editor-in-Chief</b></a> for Current Proteomics (Elsevier)
 
-- <a href = "https://academic.oup.com/bfg/pages/Editorial_Board" target="_blank"><b>Associate Editor</b></a> for Briefings in Functional Genomics (IF: 4.840)
+- <a href = "https://academic.oup.com/bfg/pages/Editorial_Board" target="_blank"><b>Associate Editor</b></a> for Briefings in Functional Genomics (Oxford University Press; IF: 4.840)
   
-- <a href = "https://www.cell.com/heliyon/editors" target="_blank"><b>Associate Editor</b></a> for Heliyon (IF: 4)
+- <a href = "https://www.cell.com/heliyon/editors" target="_blank"><b>Associate Editor</b></a> for Heliyon (Cell Press; IF: 4)
   
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Academic Editor/Editorial Board Member</b></a> for International Journal of Microbiology (IF: 3.4), BMC Bioinformatics (IF: 3.328), Discover Oncology (IF: 2.8), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Academic Editor/Editorial Board Member</b></a> for International Journal of Microbiology (Wiley, IF: 3.4), BMC Bioinformatics (Springer Nature; IF: 3.328), Discover Oncology (Springer Nature, IF: 2.8), PeerJ Computer Science (Taylor & Francis, IF: 2.411), BioMed Research International (Wiley, IF: 3.411), and Computational and Mathematical Methods (Wiley, IF: 2.809)
 
 - <b><a href = "https://icibm2026.iaibm.org/organization" target="_blank">Session Chair</a></b> for <b><a href = "https://icibm2026.iaibm.org/" target="_blank">The 14th International Conference for Intelligent Biology and Medicine (ICIBM2026)</a></b>.
   
