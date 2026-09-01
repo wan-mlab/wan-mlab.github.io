@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 09-01-2026
-<h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is accepted by Addiction Biology. Congratulations</h>
+'<h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is accepted by Addiction Biology. Congratulations</h>'
 <br>
 08-28-2026
 <h> <b>Lev Tsarin</b> joins our lab for rotation in UNMC. Welcome aboard!</h>
