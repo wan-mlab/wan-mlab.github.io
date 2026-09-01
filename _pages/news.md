@@ -16,7 +16,7 @@ permalink: /news/
 <h>Congratulations to <b>Mengtao</b> for being awarded the "Outstanding Graduate Student Award" by department GCBA as well as the BISB and MGCB PhD programs at UNMC.</h>
 <br>
 08-23-2026
-<h> A collaboration research article “A Hydrogel Ionic Circuit Electrical Stimulation System to Restore Denervated Muscle Following Long-Gap Peripheral Nerve Injury” is accepted by <b>Bioactive Materials</b> (IF 23.6), for which <b>Mengtao</b> is a co-author. Congratulations!</h>
+<h> A collaboration research article “A Hydrogel Ionic Circuit Electrical Stimulation System to Restore Denervated Muscle Following Long-Gap Peripheral Nerve Injury” is accepted by <b>Bioactive Materials</b> (IF 23.6), for which <b>Mengtao</b> is a co-author. The link is <a  href="https://www.sciencedirect.com/science/article/pii/S2452199X26005074?via%3Dihub">here</a>. Congratulations!</h>
 <br>
 08-20-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>the NIH Special Emphasis Panel (SEP) on Small Business: Computational, Modeling, and Biodata Management</b>.</h>
