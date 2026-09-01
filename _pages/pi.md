@@ -21,6 +21,8 @@ permalink: /pi/
   
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank"><b>Academic Editor/Editorial Board Member</b></a> for International Journal of Microbiology (Wiley, IF: 3.4), BMC Bioinformatics (Springer Nature; IF: 3.328), Discover Oncology (Springer Nature, IF: 2.8), PeerJ Computer Science (Taylor & Francis, IF: 2.411), BioMed Research International (Wiley, IF: 3.411), and Computational and Mathematical Methods (Wiley, IF: 2.809)
 
+- <b><a href = "https://www.iscb.org/greatplains2026/organizers/committees" target="_blank">Co-Chair</a></b> for <i>Poster Committee</i> for <b><a href = "https://www.iscb.org/greatplains2026" target="_blank">The 2026 ISCB Great Plains Bioinformatics Conference (ISCB-Great Plains 2026)</a></b>.
+
 - <b><a href = "https://icibm2026.iaibm.org/organization" target="_blank">Session Chair</a></b> for <b><a href = "https://icibm2026.iaibm.org/" target="_blank">The 14th International Conference for Intelligent Biology and Medicine (ICIBM2026)</a></b>.
   
 - <b><a href = "https://icibm2025.iaibm.org/Organization%20Committee.htm" target="_blank">Co-Chair</a></b> for <i>Publicity Committee</i> for <b><a href = "https://icibm2025.iaibm.org/index.htm" target="_blank">The 13th International Conference for Intelligent Biology and Medicine (ICIBM2025)</a></b>.
