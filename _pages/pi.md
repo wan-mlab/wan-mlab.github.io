@@ -37,7 +37,7 @@ permalink: /pi/
 
 - <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC (2026)
 
-- <b>Springer Nature Editor of Distinction Award</b> by Springer Nature (2025)
+- <b>Springer Nature Editor of Distinction Award</b> by Springer Nature (2025, 2026)
   
 - <b>New Investigator Award</b> by UNMC (2024)
 
@@ -68,6 +68,7 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 
 ### AWARDS & HONORS
 - <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b>, awarded by UNMC, Omaha, NE, USA, 2026;
+- Springer Nature Editor of Distinction Award, awarded by Springer Nature, 2026;
 - ACM Senior Member, awarded by ACM, New York, NY, USA, 2026;
 - Springer Nature Editor of Distinction Award, awarded by Springer Nature, 2025;
 - Certificate of Achievement in Research, awarded by UNMC College of Medicine, Omaha, NE, USA, 2025;
