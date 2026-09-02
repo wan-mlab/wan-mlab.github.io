@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+09-02-2026
+<h> A research article preprint “High-Resolution Subtyping of Pediatric Low-Grade Glioma Using an Integrated Meta-Clustering Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.27.747680v1">here</a>. Congratulations to <b>Bulidierxin</b>!</h>
+<br>
 09-01-2026
 <h> A collaboration research article “Classification of Adolescent Drinking via Behavioral, Biological, and Environmental Features: A Machine Learning Approach with Bias Control” is accepted by <b>Addiction Biology</b>. Congratulations</h>
 <br>
