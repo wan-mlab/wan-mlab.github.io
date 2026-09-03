@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 09-03-2026
-<h> DAG-HEART: Directed Acyclic Graph-Guided Health Equity-Aware Representation Transfer Learning Framework for Breast Cancer” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.31.748384v1">here</a>. Congratulations to <b>Minjeong</b>!</h>
+<h> A research article preprint "DAG-HEART: Directed Acyclic Graph-Guided Health Equity-Aware Representation Transfer Learning Framework for Breast Cancer” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.31.748384v1">here</a>. Congratulations to <b>Minjeong</b>!</h>
 <br>
 09-02-2026
 <h> A research article preprint “High-Resolution Subtyping of Pediatric Low-Grade Glioma Using an Integrated Meta-Clustering Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.64898/2026.08.27.747680v1">here</a>. Congratulations to <b>Bulidierxin</b>!</h>
