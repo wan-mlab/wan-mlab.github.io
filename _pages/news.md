@@ -9,6 +9,9 @@ permalink: /news/
 09-16-2026
 <h>Shibiao is invited to attend the inaugural <b>UNL-UNMC Summit</b> to be held on Sep-30.</h>
 <br>
+09-16-2026
+<h>Shibiao is featured in <b>the top news of UNMC Today</b> for the recently funded NSF FEC Grant. The link is <a  href="https://www.unmc.edu/newsroom/2026/09/16/unmc-brings-ai-expertise-to-6-million-nsf-crop-resilience-project/">here</a>. Congratulations to the whole lab!</h>
+<br>
 09-09-2026
 <h>Shibiao gives an invited seminar talk entitled "AI for Large-Scale Omics-Driven Biomedical Discovery" for <b>Department of Pathology, Microbiology and Immunology at UNMC</b>.</h>
 <br>
