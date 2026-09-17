@@ -132,7 +132,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">09/18/2026</td>
+                <td height = "50">09/25/2026</td>
                 <td height = "50">focal loss</td>
                 <td height = "50">7003</td>
             </tr>            
