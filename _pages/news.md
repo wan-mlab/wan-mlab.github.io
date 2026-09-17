@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+09-16-2026
+<h>Shibiao is invited to attend the inaugural <b>UNL-UNMC Summit</b> to be held on Sep-30.</h>
+<br>
 09-09-2026
 <h>Shibiao gives an invited seminar talk entitled "AI for Large-Scale Omics-Driven Biomedical Discovery" for <b>Department of Pathology, Microbiology and Immunology at UNMC</b>.</h>
 <br>
