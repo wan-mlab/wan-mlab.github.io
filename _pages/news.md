@@ -145,7 +145,7 @@ permalink: /news/
 <h>Shibiao is invited to serve as the <b>Co-Chair for Poster Committee</b> for <b>The 2026 ISCB Great Plains Bioinformatics Conference (ISCB-Great Plains 2026)</b> to be held from Sep. 28-30, 2026 in Omaha, NE. The link is <a  href="https://www.iscb.org/greatplains2026/organizers/committees">here</a>.</h>
 <br>
 03-19-2026
-<h> Shibiao receives the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC at the Award Ceremony and gives a talk on "Leveraging AI for Biomedical Research".</h>
+<h> Shibiao receives the <b>Joseph P. and Harriet K. Gilmore Distinguished New Investigator Award</b> by UNMC at the Award Ceremony and gives a talk on "Leveraging AI for Biomedical Research". The news is <a  href="https://www.unmc.edu/newsroom/2026/03/19/drs-wan-johnson-named-2026-gilmore-award-recipients/">here</a>.</h>
 <br>
 03-19-2026
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>French National Research Agency (The Agence Nationale de la Recherche, ANR)</b> in France.</h> 
