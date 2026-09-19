@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 09-18-2026
-<h>Shibiao gives a lightning talk for <b>National Cancer Institute (NCI) Childhood Cancer Data Initiative (CCDI) Symposium</b> entitled "Leveraging AI to Characterize Acute Leukemia" at Rockville, MD.</h>
+<h>Shibiao gives an invited talk for <b>National Cancer Institute (NCI) Childhood Cancer Data Initiative (CCDI) Symposium</b> entitled "Leveraging AI to Characterize Acute Leukemia" at Rockville, MD.</h>
 <br>
 09-16-2026
 <h>Shibiao is invited to attend the inaugural <b>UNL-UNMC Summit</b> to be held on Sep-30.</h>
