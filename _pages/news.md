@@ -7,6 +7,9 @@ permalink: /news/
 
 # News 
 09-22-2026
+<h>Shibiao gives an invited seminar talk for <b>Breast Cancer Translational Working Group at UNMC</b> entitled "Leveraging AI to Advanced Health Equity for Breast Cancer".</h>
+<br>
+09-22-2026
 <h>A research article titled “MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification” is accepted by the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Nick, Mengtao</b> and <b>Xinchao</b>!</h>
 <br>
 09-18-2026
