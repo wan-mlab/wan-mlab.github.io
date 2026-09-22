@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+09-22-2026
+<h>A research article titled “MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification” is accepted by the journal <b>Advanced Intelligent Systems</b>. Congratulations to <b>Nick, Mengtao</b> and <b>Xinchao</b>!</h>
+<br>
 09-18-2026
 <h>Shibiao gives an invited talk for <b>National Cancer Institute (NCI) Childhood Cancer Data Initiative (CCDI) Symposium</b> entitled "Leveraging AI to Characterize Acute Leukemia" at Rockville, MD.</h>
 <br>
