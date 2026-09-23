@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 09-22-2026
-<h>A research article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is accepted by the journal <b>Briefings in Functional Genomics</b>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
+<h>A review article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is accepted by the journal <b>Briefings in Functional Genomics</b>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
 <br>
 09-22-2026
 <h>Shibiao gives an invited seminar talk for <b>Breast Cancer Translational Working Group at UNMC</b> entitled "Leveraging AI to Advanced Health Equity for Breast Cancer".</h>
