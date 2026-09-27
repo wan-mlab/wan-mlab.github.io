@@ -1,7 +1,7 @@
 - title: "1. A Comprehensive Review on RNA Subcellular Localization Prediction"
   image: 
   description:
-  authors: <b><u>C. Zhang</u></b>, <b><u>X. Zhu</u></b>, <b><u>N. Peterson</u></b>, J. Wang and <b><u>S. Wan*</u></b>
+  authors: <b><u>C. Zhang<sup>#</sup></u></b>, <b><u>X. Zhu<sup>#</sup></u></b>, <b><u>N. Peterson</u></b>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: 
     display: Briefings in Functional Genomics (Accepted) (2026)
@@ -11,7 +11,7 @@
 - title: "1. MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification"
   image: 
   description:
-  authors: <b><u>N. Peterson</u></b>, <b><u>M. Sun</u></b>, <b><u>X. Wu</u></b>, J. Wang and <b><u>S. Wan*</u></b>
+  authors: <b><u>N. Peterson<sup>#</sup></u></b>, <b><u>M. Sun<sup>#</sup></u></b>, <b><u>X. Wu</u></b>, J. Wang and <b><u>S. Wan*</u></b>
   link:
     url: 
     display: Advanced Intelligent Systems (Accepted) (2026)
