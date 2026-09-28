@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+09-27-2026
+<h> A collaboration research article preprint “Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning” is online at <b>arXiv</b>. The link is <a  href="https://arxiv.org/abs/2609.31376">here</a>. Congratulations!</h>
+<br>
 09-22-2026
 <h>A review article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is accepted by the journal <b>Briefings in Functional Genomics</b>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
 <br>
