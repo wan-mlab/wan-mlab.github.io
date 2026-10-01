@@ -6,6 +6,12 @@ permalink: /news/
 ---
 
 # News 
+09-30-2026
+<h>Shibiao attends and brings AI expertise to the inaugural <b>UNL-UNMC Summit</b> in Ashland, NE.</h>
+<br>
+09-30-2026
+<h><b>The 2026 ISCB Great Plains Bioinformatics Conference (ISCB-Great Plains 2026)</b>, for which Shibiao serves as the <b>Co-Chair for Poster Committee</b>, has been successfully held from Sep. 28-30, 2026 in Omaha, NE. The link is <a  href="https://www.iscb.org/greatplains2026">here</a>.</h>
+<br>
 09-27-2026
 <h> A collaboration research article preprint “Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning” is online at <b>arXiv</b>. The link is <a  href="https://arxiv.org/abs/2609.31376">here</a>. Congratulations!</h>
 <br>
