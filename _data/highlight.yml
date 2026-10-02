@@ -40,7 +40,7 @@
   
 - title: " FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
-  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms. Compared to conventional localization predictors, FUEL-mLoc has the following advantages: (i) using unified features to interpret why a prediction is made; (ii) being capable of predicting both single- and multi-location proteins and (iii) being able to handle proteins of multiple organisms.                          
+  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms. Compared to conventional localization predictors, FUEL-mLoc has the following advantages (i) using unified features to interpret why a prediction is made (ii) being capable of predicting both single- and multi-location proteins and (iii) being able to handle proteins of multiple organisms.                          
   authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
