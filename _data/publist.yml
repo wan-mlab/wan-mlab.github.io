@@ -1,3 +1,13 @@
+- title: "1. Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes"
+  image: 
+  description:
+  authors: R. Liu, M. Azzam, E. Ugwueke, N. Zabik, <b><u>S. Wan</u></b>, J. Blackford and J. Wang
+  link:
+    url: https://www.medrxiv.org/content/10.64898/2026.09.27.26364127
+    display: medRxiv 2026.09.27.26364127 (2026)
+  highlight: 0
+  news2:
+  
 - title: "1. WIMOAD: Weighted integration of multi-omics data for Alzheimer's Disease (AD) diagnosis"
   image: 
   description: 
