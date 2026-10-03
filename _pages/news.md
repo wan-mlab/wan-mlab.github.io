@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+10-03-2026
+<h> A collaboration research article preprint “Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364127">here</a>.</h>
+<br>
 09-30-2026
 <h>Shibiao attends and brings AI expertise to the inaugural <b>UNL-UNMC Summit</b> in Ashland, NE.</h>
 <br>
