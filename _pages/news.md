@@ -7,7 +7,7 @@ permalink: /news/
 
 # News 
 10-03-2026
-<h> A collaboration research article preprint “Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364127">here</a>.</h>
+<h>A collaboration research article preprint titled “Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes” is online at <b>medRxiv</b>. The link is <a  href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364127">here</a>.</h>
 <br>
 10-02-2026
 <h>A research article titled “WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis” has been officially published by the journal <b>Journal of Alzheimer's Disease</b>. The link is <a  href="https://journals.sagepub.com/doi/10.1177/13872877261491975">here</a>. Congratulations to <b>Hanyu</b>!</h>
@@ -19,7 +19,7 @@ permalink: /news/
 <h><b>The 2026 ISCB Great Plains Bioinformatics Conference (ISCB-Great Plains 2026)</b>, for which Shibiao serves as the <b>Co-Chair for Poster Committee</b>, has been successfully held from Sep. 28-30, 2026 in Omaha, NE. The link is <a  href="https://www.iscb.org/greatplains2026">here</a>.</h>
 <br>
 09-27-2026
-<h> A collaboration research article preprint “Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning” is online at <b>arXiv</b>. The link is <a  href="https://arxiv.org/abs/2609.31376">here</a>. Congratulations!</h>
+<h>A collaboration research article preprint titled “Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning” is online at <b>arXiv</b>. The link is <a  href="https://arxiv.org/abs/2609.31376">here</a>. Congratulations!</h>
 <br>
 09-22-2026
 <h>A review article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is accepted by the journal <b>Briefings in Functional Genomics</b>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
