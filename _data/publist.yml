@@ -167,6 +167,26 @@
     display: Molecular Oncology, 20, 1074-1089 (2026)
   highlight: 0
   news2:
+
+- title: "1. RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965
+    display: 	Advanced Intelligent Systems, Volume 8, Issue 2, e202500965 (2026)
+  highlight: 0
+  news2:
+  
+- title: "1. RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer"
+  image: 
+  description: 
+  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635
+    display: 	Advanced Intelligent Systems, Volume 8, Issue 2, e202500635 (2026)
+  highlight: 0
+  news2:
   
 - title: "1. MetaPaCS: A novel meta-learning framework for pancreatic cancer subtype identification"
   image: 
@@ -207,16 +227,6 @@
     display: Research Square	
   highlight: 0
   news2:
-
-- title: "1. RanBALL: An Ensemble Random Projection Model for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia"
-  image: 
-  description: 
-  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
-  link:
-    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500965
-    display: 	Advanced Intelligent Systems, Volume8, Issue2, e202500965 (2025)
-  highlight: 0
-  news2:
   
 - title: "1. Editorial: Subjective well-being and human decision behaviors"
   image: 
@@ -228,15 +238,7 @@
   highlight: 0
   news2:
   
-- title: "1. RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking Learning for Categorizing Non-Small Cell Lung Cancer"
-  image: 
-  description: 
-  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b>
-  link:
-    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500635
-    display: 	Advanced Intelligent Systems, Volume8, Issue2, e202500635 (2025)
-  highlight: 0
-  news2:
+
 
 - title: "1. ECD co-operates with ERBB2 to promote tumorigenesis through upregulation of unfolded protein response and glycolysis"
   image: 
