@@ -6,6 +6,10 @@ permalink: /news/
 ---
 
 # News 
+10-10-2026
+<h>A review article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is officially published in the journal <b>Briefings in Functional Genomics</b>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
+The link is <a  href="https://academic.oup.com/bfg/article/doi/10.1093/bfgp/elag011/8907323">here</a>.
+<br>
 10-03-2026
 <h>A collaboration research article preprint titled “Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes” is online at <b>medRxiv</b>. The link is <a href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364127">here</a>.</h>
 <br>
