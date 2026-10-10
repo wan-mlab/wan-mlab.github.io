@@ -1,3 +1,13 @@
+- title: "1. A Comprehensive Review on RNA Subcellular Localization Prediction"
+  image: 
+  description:
+  authors: <b><u>C. Zhang<sup>#</sup></u></b>, <b><u>X. Zhu<sup>#</sup></u></b>, <b><u>N. Peterson</u></b>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://academic.oup.com/bfg/article/doi/10.1093/bfgp/elag011/8907323
+    display: Briefings in Functional Genomics, Volume 25, elag011 (2026)
+  highlight: 0
+  news2:
+  
 - title: "1. Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes"
   image: 
   description:
@@ -25,16 +35,6 @@
   link:
     url: https://arxiv.org/abs/2609.31376
     display: arXiv 2609.31376 (2026)
-  highlight: 0
-  news2:
-  
-- title: "1. A Comprehensive Review on RNA Subcellular Localization Prediction"
-  image: 
-  description:
-  authors: <b><u>C. Zhang<sup>#</sup></u></b>, <b><u>X. Zhu<sup>#</sup></u></b>, <b><u>N. Peterson</u></b>, J. Wang and <b><u>S. Wan*</u></b>
-  link:
-    url: 
-    display: Briefings in Functional Genomics (Accepted) (2026)
   highlight: 0
   news2:
   
