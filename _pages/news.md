@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+10-12-2026
+<h>Shibiao gives an invited seminar talk entitled "Transforming Biomedical Discovery with AI" for <b>Department of Biochemistry and Molecular Biology at UNMC</b>.</h>
+<br>
 10-10-2026
 <h>A review article titled “A Comprehensive Review on RNA Subcellular Localization Prediction” is officially published in the journal <b>Briefings in Functional Genomics</b>. The link is <a  href="https://academic.oup.com/bfg/article/doi/10.1093/bfgp/elag011/8907323">here</a>. Congratulations to <b>Cece, Xuehuan</b> and <b>Nick</b>!</h>
 <br>
