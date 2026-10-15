@@ -96,20 +96,26 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>                     
             <tr>
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">12/11/2026</td>
+                <td height = "50">12/25/2026</td>
                 <td height = "50">transfer learning</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">11/27/2026</td>
+                <td height = "50">12/11/2026</td>
                 <td height = "50">Semi-supervised Learning</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">11/13/2026</td>
+                <td height = "50">11/27/2026</td>
                 <td height = "50">AlphaGenome</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Liang Zhao</td>
+                <td height = "50">11/13/2026</td>
+                <td height = "50">Masked Autoencoders Are Scalable Vision Learners</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
