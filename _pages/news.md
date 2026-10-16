@@ -6,6 +6,8 @@ permalink: /news/
 ---
 
 # News 
+10-15-2026
+<h>A research article titled “MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification” is officially published in the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.70576">here</a>. Congratulations to <b>Nick, Mengtao</b> and <b>Xinchao</b>!</h>
 10-12-2026
 <h>Shibiao gives an invited seminar talk entitled "Transforming Biomedical Discovery with AI" for <b>Department of Biochemistry and Molecular Biology at UNMC</b>.</h>
 <br>
