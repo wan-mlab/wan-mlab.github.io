@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+10-22-2026
+<h> Shibiao is invited to serve as an Editorial Board Member for <b>BMC Cancer</b>.</h>
+<br>
 10-15-2026
 <h>A research article titled “MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification” is officially published in the journal <b>Advanced Intelligent Systems</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.70576">here</a>. Congratulations to <b>Nick, Mengtao</b> and <b>Xinchao</b>!</h>
 <br>
