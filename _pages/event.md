@@ -121,7 +121,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">10/30/2026</td>
-                <td height = "50">Parameter-Efficient Fine-Tuning</td>
+                <td height = "50">Low-Rank Adaptation of Large Language Models</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
