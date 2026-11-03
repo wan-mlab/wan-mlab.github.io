@@ -34,46 +34,52 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">04/02/2027</td>
+                <td height = "50">04/16/2027</td>
                 <td height = "50">In-context Learning</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">03/19/2027</td>
+                <td height = "50">04/02/2027</td>
                 <td height = "50">Harmony</td>
                 <td height = "50">7003</td>
             </tr> 
             <tr>            
                 <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">03/05/2027</td>
+                <td height = "50">03/19/2027</td>
                 <td height = "50">Tabular Prior-data Fitted Network (TabPFN)</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">02/19/2027</td>
+                <td height = "50">03/05/2027</td>
                 <td height = "50">difussion model</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">02/05/2027</td>
+                <td height = "50">02/19/2027</td>
                 <td height = "50">LLaMA</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">01/22/2027</td>
+                <td height = "50">02/05/2027</td>
                 <td height = "50">Low-Rank Adaptation of Large Language Models</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">01/08/2027</td>
+                <td height = "50">01/15/2027</td>
                 <td height = "50">Kernel learning</td>
                 <td height = "50">7003</td>
-            </tr>  
+            </tr>
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">01/08/2026</td>
+                <td height = "50">transfer learning</td>
+                <td height = "50">7003</td>
+            </tr>            
         </tbody>
     </table>
 </body>
@@ -93,13 +99,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>                     
-            <tr>
-                <td height = "50">Bulidierxin Tuerhanbayi</td>
-                <td height = "50">12/25/2026</td>
-                <td height = "50">transfer learning</td>
-                <td height = "50">7003</td>
-            </tr>             
+            </tr>                                 
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">12/11/2026</td>
