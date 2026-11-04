@@ -18,6 +18,51 @@ permalink: /labm/
     <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
         <tbody align = "center">
             <tr style="border-bottom: 2px solid black;">
+                <td height="50" colspan="4"><b>2027 Schedule</b></td>
+            </tr>
+            <tr style="border-bottom: 2px solid black;">
+                <td height = "50"><b>Speaker</b></td>
+                <td height = "50"><b>Date</b></td>
+                <td height = "50"><b>Room</b></td>
+            </tr>    
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">02/01/2027</td>
+                <td height = "50">7003</td>
+            </tr>               
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">01/25/2027</td>
+                <td height = "50">7003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">01/18/2027</td>
+                <td height = "50">7003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">01/11/2027</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Bulidierxin Tuerhanbayi</td>
+                <td height = "50">01/04/2027</td>
+                <td height = "50">7003</td>
+            </tr>            
+        </tbody>
+    </table>
+</body>
+</html>
+<br>
+<br>
+<br>            
+<html lang="en">
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+    
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
+        <tbody align = "center">
+            <tr style="border-bottom: 2px solid black;">
                 <td height="50" colspan="4"><b>2026 Schedule</b></td>
             </tr>
             <tr style="border-bottom: 2px solid black;">
