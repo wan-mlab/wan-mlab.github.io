@@ -108,7 +108,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>             
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">11/27/2026</td>
+                <td height = "50">12/04/2026</td>
                 <td height = "50">AlphaGenome</td>
                 <td height = "50">7003</td>
             </tr>
