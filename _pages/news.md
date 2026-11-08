@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+11-07-2026
+<h>A collaboration research article preprint titled “A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation” is online at <b>arXiv</b>. The link is <a href="https://arxiv.org/abs/2611.06791">here</a>.</h>
+<br>
 10-22-2026
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>BMC Cancer</b>.</h>
 <br>
