@@ -7,7 +7,10 @@ permalink: /news/
 
 # News 
 11-07-2026
-<h>A collaboration research article preprint titled “A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation” is online at <b>arXiv</b>. The link is <a href="https://arxiv.org/abs/2611.06791">here</a>.</h>
+<h>A collaboration research article titled “B7 homolog 3 mediates immune escape and metastasis in small cell lung cancer” is accepted by <b>Signal Transduction and Targeted Therapy</b>, for which <b>Bulidierxin</b> is a co-author. Congratulations!</h>
+<br>
+11-07-2026
+<h>A collaboration research article preprint titled “A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation” is online at <b>arXiv</b>. The link is <a href="https://arxiv.org/abs/2611.06791">here</a>. Congratulations!</h>
 <br>
 10-22-2026
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>BMC Cancer</b>.</h>
