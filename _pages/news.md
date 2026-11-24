@@ -9,7 +9,7 @@ permalink: /news/
 11-24-2026
 <h>A research article titled “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is accepted by the journal <b>Advanced Science</b>. Congratulations to <b>Xinchao</b>!</h>
 <br>
-11-07-2026
+11-16-2026
 <h>A collaboration research article titled “B7-H3 mediates immune escape and metastasis in SCLC through CXCLI1/CXCR7/NFIB axis” is accepted by <b>Signal Transduction and Targeted Therapy</b>, for which <b>Bulidierxin</b> is a co-author. Congratulations!</h>
 <br>
 11-07-2026
