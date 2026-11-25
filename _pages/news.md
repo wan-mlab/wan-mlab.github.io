@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News 
+11-25-2026
+<h>A research article titled “PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data” is accepted by the journal <b>Advanced Science</b>. Congratulations to <b>Xingzhi</b>!</h>
+<br>
 11-24-2026
 <h>A research article titled “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is accepted by the journal <b>Advanced Science</b>. Congratulations to <b>Xinchao</b>!</h>
 <br>
