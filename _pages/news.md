@@ -7,13 +7,13 @@ permalink: /news/
 
 # News 
 11-25-2026
-<h>A research article titled “PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data” is accepted by the journal <b>Advanced Science</b>. Congratulations to <b>Xingzhi</b>!</h>
+<h>A research article titled “PalmaClust: A graph-fusion framework leveraging the Palma ratio for robust ultra-rare cell type detection in scRNA-seq data” is accepted by the journal <b>Advanced Science</b> (IF 14.1). Congratulations to <b>Xingzhi</b>!</h>
 <br>
 11-24-2026
-<h>A research article titled “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is accepted by the journal <b>Advanced Science</b>. Congratulations to <b>Xinchao</b>!</h>
+<h>A research article titled “Atlas-Level Single-Cell and Spatial Transcriptomics Data Integration via PRIME” is accepted by the journal <b>Advanced Science</b> (IF 14.1). Congratulations to <b>Xinchao</b>!</h>
 <br>
 11-16-2026
-<h>A collaboration research article titled “B7-H3 mediates immune escape and metastasis in SCLC through CXCLI1/CXCR7/NFIB axis” is accepted by <b>Signal Transduction and Targeted Therapy</b>, for which <b>Bulidierxin</b> is a co-author. Congratulations!</h>
+<h>A collaboration research article titled “B7-H3 mediates immune escape and metastasis in SCLC through CXCLI1/CXCR7/NFIB axis” is accepted by <b>Signal Transduction and Targeted Therapy</b> (IF 81.2), for which <b>Bulidierxin</b> is a co-author. Congratulations!</h>
 <br>
 11-07-2026
 <h>A collaboration research article preprint titled “A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation” is online at <b>arXiv</b>. The link is <a href="https://arxiv.org/abs/2611.06791">here</a>. Congratulations!</h>
@@ -229,7 +229,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NSF Smart and Connected Health (SCH) AI Panel</b>.</h>
  <br>
 02-09-2026
-<h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b>. The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>. Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
+<h>A journal article titled “Leveraging Artificial Intelligence and Large Language Models for Cancer Immunotherapy” is accepted by the journal <b>Advanced Science</b> (IF 14.1). The link is <a  href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521936">here</a>. Congratulations to <b>Xinchao</b>, <b>Mengtao</b> and <b>Lusheng</b>!</h>
 <br>
 02-01-2026
 <h>Congratulations to <b>Nick</b> for passing his Comprehensive Exam!</h>
